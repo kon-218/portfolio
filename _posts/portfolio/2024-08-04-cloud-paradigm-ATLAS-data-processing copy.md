@@ -12,10 +12,10 @@ tags:
 categories:
     - projects
 image:
-    thumb: gallery-example-2-thumb.jpg
-    title: gallery-example-2.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    thumb: cloudtech.jpeg
+    title: cloudtech.jpeg
+    caption: Stockvault.net
+    caption_url: http://stockvault.net
 permalink: /portfolio/cloud-paradigm-atlas-data-processing/
 header: no
 ---

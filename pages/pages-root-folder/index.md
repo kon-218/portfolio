@@ -7,7 +7,7 @@
 layout: frontpage 
 header:
     title: Konstantin Nomerotski
-    subtitle: Chemistry, Computing and New York
+    subtitle: Chemistry and Computing
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
     caption: Brooklyn Bridge
     caption_url: https://unsplash.com/

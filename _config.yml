@@ -40,8 +40,9 @@ improve_content: https://github.com/kon-218/portfolio/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 #urlimg: 'https://kon-218.github.io/home/images/'
-urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-urlimg: 'https://kon-218.github.io/images/'
+#urlimg: 'https://phlow.github.io/feeling-responsive/images/'
+#urlimg: 'https://kon-218.github.io/images/'
+urlimg: /images/
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

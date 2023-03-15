@@ -13,9 +13,9 @@ categories:
     - projects
 image:
     thumb: gallery-example-2-thumb.jpg
-    title: /images/a.png
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    title: b.png
+    caption: ACS Earth & Space Chemistry
+    caption_url: https://pubs.acs.org/toc/aesccq/6/1
 permalink: /portfolio/rep-sampling-for-nea/
 header: no
 ---

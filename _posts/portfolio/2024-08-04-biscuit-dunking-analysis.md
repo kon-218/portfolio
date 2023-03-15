@@ -13,10 +13,10 @@ tags:
 categories:
     - projects
 image:
-    thumb: gallery-example-2-thumb.jpg
-    title: gallery-example-2.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    thumb: biscuit-transformed.jpeg
+    title: biscuit-transformed.jpeg
+    caption: Physics Takes the Biscuit, Len Fischer
+    caption_url: https://www.nature.com/articles/17203
 permalink: /portfolio/biscuit-dunking-analysis/
 header: no
 ---

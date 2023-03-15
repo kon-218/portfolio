@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/home//assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/home//assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/home//</id>
+	<id>http://localhost:4000/</id>
 	<title>KN - Portfolio</title>
-	<updated>2024-08-19T17:40:19+00:00</updated>
+	<updated>2024-08-22T02:01:43+00:00</updated>
 
 	<subtitle>» A portfolio / blog «</subtitle>
 
@@ -19,16 +19,16 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/home//atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/home//" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.3.3">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/home//web-main/</id>
+			<id>http://localhost:4000/web-main/</id>
 			<title>Web Main</title>
-			<link href="http://localhost:4000/home//web-main/" rel="alternate" type="text/html" title="Web Main" />
+			<link href="http://localhost:4000/web-main/" rel="alternate" type="text/html" title="Web Main" />
 			<updated>2024-08-07T00:00:00+00:00</updated>
 
 			
@@ -42,7 +42,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/home//web-main/">
+			<content type="html" xml:base="http://localhost:4000/web-main/">
 </content>
 
 			
@@ -52,9 +52,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/home//guides/toc/</id>
+			<id>http://localhost:4000/guides/toc/</id>
 			<title>Guides Archive</title>
-			<link href="http://localhost:4000/home//guides/toc/" rel="alternate" type="text/html" title="Guides Archive" />
+			<link href="http://localhost:4000/guides/toc/" rel="alternate" type="text/html" title="Guides Archive" />
 			<updated>2024-08-07T00:00:00+00:00</updated>
 
 			
@@ -68,7 +68,7 @@
 				</author>
 			
 			<summary>Explore all the guides and tutorials available in the Guides section.</summary>
-			<content type="html" xml:base="http://localhost:4000/home//guides/toc/">&lt;div id=&quot;guides-index&quot; class=&quot;row&quot;&gt;
+			<content type="html" xml:base="http://localhost:4000/guides/toc/">&lt;div id=&quot;guides-index&quot; class=&quot;row&quot;&gt;
 	&lt;div class=&quot;small-12 columns t30&quot;&gt;
 		&lt;h1&gt;Guides Archive&lt;/h1&gt;
 		&lt;p class=&quot;teaser&quot;&gt;Explore all the guides and tutorials available in the Guides section.&lt;/p&gt;
@@ -261,9 +261,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/home//guides/python/</id>
+			<id>http://localhost:4000/guides/python/</id>
 			<title>Python Homepage</title>
-			<link href="http://localhost:4000/home//guides/python/" rel="alternate" type="text/html" title="Python Homepage" />
+			<link href="http://localhost:4000/guides/python/" rel="alternate" type="text/html" title="Python Homepage" />
 			<updated>2024-08-07T00:00:00+00:00</updated>
 
 			
@@ -277,7 +277,7 @@
 				</author>
 			
 			<summary>Python ... </summary>
-			<content type="html" xml:base="http://localhost:4000/home//guides/python/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/guides/python/">&lt;!--more--&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
@@ -325,9 +325,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/home//other-main/</id>
+			<id>http://localhost:4000/other-main/</id>
 			<title>Other Main</title>
-			<link href="http://localhost:4000/home//other-main/" rel="alternate" type="text/html" title="Other Main" />
+			<link href="http://localhost:4000/other-main/" rel="alternate" type="text/html" title="Other Main" />
 			<updated>2024-08-07T00:00:00+00:00</updated>
 
 			
@@ -341,7 +341,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/home//other-main/">
+			<content type="html" xml:base="http://localhost:4000/other-main/">
 </content>
 
 			
@@ -351,9 +351,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/home//portfolio/this-website/</id>
+			<id>http://localhost:4000/portfolio/this-website/</id>
 			<title>This Website</title>
-			<link href="http://localhost:4000/home//portfolio/this-website/" rel="alternate" type="text/html" title="This Website" />
+			<link href="http://localhost:4000/portfolio/this-website/" rel="alternate" type="text/html" title="This Website" />
 			<updated>2024-08-04T00:00:00+00:00</updated>
 
 			
@@ -367,7 +367,7 @@
 				</author>
 			
 			<summary>This website is an ongoing project, developing my abities in HTML and CSS.</summary>
-			<content type="html" xml:base="http://localhost:4000/home//portfolio/this-website/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
+			<content type="html" xml:base="http://localhost:4000/portfolio/this-website/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
@@ -385,15 +385,15 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -418,9 +418,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/home//portfolio/rep-sampling-for-nea/</id>
+			<id>http://localhost:4000/portfolio/rep-sampling-for-nea/</id>
 			<title>Representative Samping for the Nuclear Ensemble Approach</title>
-			<link href="http://localhost:4000/home//portfolio/rep-sampling-for-nea/" rel="alternate" type="text/html" title="Representative Samping for the Nuclear Ensemble Approach" />
+			<link href="http://localhost:4000/portfolio/rep-sampling-for-nea/" rel="alternate" type="text/html" title="Representative Samping for the Nuclear Ensemble Approach" />
 			<updated>2024-08-04T00:00:00+00:00</updated>
 
 			
@@ -434,7 +434,7 @@
 				</author>
 			
 			<summary>Implemented the Representative Sampling Method using Simulated Annealing to increase the efficiency of high-cost Quantum Chemistry photoabsorption cross-section calculations</summary>
-			<content type="html" xml:base="http://localhost:4000/home//portfolio/rep-sampling-for-nea/">&lt;p&gt;&lt;img src=&quot;../../images/a.png&quot; /&gt;&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/portfolio/rep-sampling-for-nea/">&lt;p&gt;&lt;img src=&quot;../../images/a.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Masters thesis project at the University of Bristol &lt;a href=&quot;https://in-silico-photochem.com/&quot;&gt;InSilicoPhotochemistry&lt;/a&gt; group&lt;/p&gt;
 
@@ -476,19 +476,19 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/home//blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 
 
   
@@ -511,9 +511,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/home//portfolio/cloud-paradigm-atlas-data-processing/</id>
+			<id>http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/</id>
 			<title>Improving scalability using cloud paradigms</title>
-			<link href="http://localhost:4000/home//portfolio/cloud-paradigm-atlas-data-processing/" rel="alternate" type="text/html" title="Improving scalability using cloud paradigms" />
+			<link href="http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/" rel="alternate" type="text/html" title="Improving scalability using cloud paradigms" />
 			<updated>2024-08-04T00:00:00+00:00</updated>
 
 			
@@ -527,7 +527,7 @@
 				</author>
 			
 			<summary>Scaling an ATLAS data processing script using service based model. Functionality demonstrated locally using Docker swarm</summary>
-			<content type="html" xml:base="http://localhost:4000/home//portfolio/cloud-paradigm-atlas-data-processing/">&lt;h3&gt;Project Objectives&lt;/h3&gt;
+			<content type="html" xml:base="http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/">&lt;h3&gt;Project Objectives&lt;/h3&gt;
 
 &lt;p&gt;The primary objectives of this ATLAS open database processing project are to develop a multiservice application for the distributed processing of ATLAS open data, enhancing the efficiency of data analysis. Secondly, to integrate cloud computing technologies to improve scalability and resource management in processing large volumes of data. Overall, this project aims to demonstrate the benefits of cloud-oriented design in scientific computing as a method for improving future workflows in research.&lt;/p&gt;
 
@@ -556,19 +556,19 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/home//blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 
 
   
@@ -591,9 +591,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/home//portfolio/biscuit-dunking-analysis/</id>
+			<id>http://localhost:4000/portfolio/biscuit-dunking-analysis/</id>
 			<title>Biscuit Dunking Data Analysis</title>
-			<link href="http://localhost:4000/home//portfolio/biscuit-dunking-analysis/" rel="alternate" type="text/html" title="Biscuit Dunking Data Analysis" />
+			<link href="http://localhost:4000/portfolio/biscuit-dunking-analysis/" rel="alternate" type="text/html" title="Biscuit Dunking Data Analysis" />
 			<updated>2024-08-04T00:00:00+00:00</updated>
 
 			
@@ -607,7 +607,7 @@
 				</author>
 			
 			<summary>A comprehensive analysis of biscuit dunking data</summary>
-			<content type="html" xml:base="http://localhost:4000/home//portfolio/biscuit-dunking-analysis/">&lt;p&gt;Biscuit dunking is an essential aspect of British culture, whether you’re dunking chocolate coated biscuits, oat, or digestives, everyone is guilty of the occasional dunk. This can lead even to the point of rivalry, betweeen the one second dunkers and the die hard, wait as long as you can without the biscuit crumbling camp. An investigation into McVities biscuit dunking data has been conducted to clear the air on the difference between three types of biscuits: Digestives, Hobnobs, and Rich Tea.&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/portfolio/biscuit-dunking-analysis/">&lt;p&gt;Biscuit dunking is an essential aspect of British culture, whether you’re dunking chocolate coated biscuits, oat, or digestives, everyone is guilty of the occasional dunk. This can lead even to the point of rivalry, betweeen the one second dunkers and the die hard, wait as long as you can without the biscuit crumbling camp. An investigation into McVities biscuit dunking data has been conducted to clear the air on the difference between three types of biscuits: Digestives, Hobnobs, and Rich Tea.&lt;/p&gt;
 
 &lt;h3&gt;Project Objectives&lt;/h3&gt;
 
@@ -640,19 +640,19 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/home//blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 
 
   
@@ -677,9 +677,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/home//portfolio/atmospec-data-visualization-module/</id>
+			<id>http://localhost:4000/portfolio/atmospec-data-visualization-module/</id>
 			<title>Atmospec Visualization Module</title>
-			<link href="http://localhost:4000/home//portfolio/atmospec-data-visualization-module/" rel="alternate" type="text/html" title="Atmospec Visualization Module" />
+			<link href="http://localhost:4000/portfolio/atmospec-data-visualization-module/" rel="alternate" type="text/html" title="Atmospec Visualization Module" />
 			<updated>2024-08-04T00:00:00+00:00</updated>
 
 			
@@ -693,7 +693,7 @@
 				</author>
 			
 			<summary>An interactive data visualization module</summary>
-			<content type="html" xml:base="http://localhost:4000/home//portfolio/atmospec-data-visualization-module/">&lt;h3&gt;Project Objectives&lt;/h3&gt;
+			<content type="html" xml:base="http://localhost:4000/portfolio/atmospec-data-visualization-module/">&lt;h3&gt;Project Objectives&lt;/h3&gt;
 
 &lt;p&gt;The primary aim of this project was to design and integrate a module for the visualization of photolysis rate data, obtained through the AtmoSpec application. This module would allow the user to dynamically visualize additional results from their Quantum Chemistry calculations. The Atmospec application was distributed using a docker container, and presented as a jupyter web application. The module was directly integrated into the results page.&lt;/p&gt;
 
@@ -768,19 +768,19 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/home//blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 
 
   
@@ -809,9 +809,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/home//portfolio/accelerating-python-code/</id>
+			<id>http://localhost:4000/portfolio/accelerating-python-code/</id>
 			<title>Accelerating Python code</title>
-			<link href="http://localhost:4000/home//portfolio/accelerating-python-code/" rel="alternate" type="text/html" title="Accelerating Python code" />
+			<link href="http://localhost:4000/portfolio/accelerating-python-code/" rel="alternate" type="text/html" title="Accelerating Python code" />
 			<updated>2024-08-04T00:00:00+00:00</updated>
 
 			
@@ -825,7 +825,7 @@
 				</author>
 			
 			<summary>Exploring tools such as OpenMP, MPI and C++, as well as Python modules Cython and Numba to increase the efficiency of the computationally intensive Lebwhol-Lasher fluid model coded in Python</summary>
-			<content type="html" xml:base="http://localhost:4000/home//portfolio/accelerating-python-code/">&lt;h3&gt;Project Objectives&lt;/h3&gt;
+			<content type="html" xml:base="http://localhost:4000/portfolio/accelerating-python-code/">&lt;h3&gt;Project Objectives&lt;/h3&gt;
 
 &lt;p&gt;To increase the efficiency of Lebwhol Lasher model, coded in Python, by investigating and reducing code bottlenecks. A combination of techniques were used including OpenMP, MPI and C++, as well as Python modules numba and numpy.&lt;/p&gt;
 
@@ -848,19 +848,19 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/home//portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/home//blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 
 
   

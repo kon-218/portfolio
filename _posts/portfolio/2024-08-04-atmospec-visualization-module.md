@@ -15,10 +15,9 @@ tags:
 categories:
     - projects
 image:
-    thumb: gallery-example-2-thumb.jpg
-    title: gallery-example-2.jpg
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    thumb: atmospecvis.png
+    title: atmospecvis.png
+    caption: AtmoSpec application
 permalink: /portfolio/atmospec-data-visualization-module/
 header: no
 ---

@@ -43,7 +43,7 @@ Each project included here is a testament to my skills, dedication, and passion 
 <div class="row">
     <div class="medium-4 columns t30 project">
         <a href="https://github.com/your-repo/example1">
-            <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
+            <img src="{{ site.urlimg }}b.png" alt="">
         </a>
         <div class="project-content">
             <h6>Representative Sampling for Quantum Chemistry calculations</h6>
@@ -58,7 +58,7 @@ Each project included here is a testament to my skills, dedication, and passion 
 
     <div class="medium-4 columns t30 project">
         <a href="https://github.com/your-repo/example2">
-            <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
+            <img src="{{ site.urlimg }}biscuit-transformed.jpeg" alt="">
         </a>
         <div class="project-content">
             <h6>Biscuit Dunking Analysis</h6>
@@ -73,7 +73,7 @@ Each project included here is a testament to my skills, dedication, and passion 
 
     <div class="medium-4 columns t30 project">
         <a href="https://github.com/your-repo/example3">
-            <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
+            <img src="{{ site.urlimg }}cloudtech.jpeg" alt="">
         </a>
         <div class="project-content">
             <h6>Distributed Data Processing</h6>
@@ -89,7 +89,7 @@ Each project included here is a testament to my skills, dedication, and passion 
 <div class="row">
     <div class="medium-4 columns t30 project">
         <a href="https://github.com/your-repo/example4">
-            <img src="{{ site.urlimg }}gallery-example-7.jpg" alt="">
+            <img src="{{ site.urlimg }}atmospecvis.png" alt="">
         </a>
         <div class="project-content">
             <h6>Data Visualization Module</h6>
