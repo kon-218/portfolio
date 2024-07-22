@@ -1,5 +1,5 @@
-title: Your awesome title
-description: My awesome site
+title: Konstantin Nomerotski Portfolio
+description: This is a portfolio / blog website
 permalink: /:slugified_categories/:title/
 
 date_format: "%b %-d, %Y"
