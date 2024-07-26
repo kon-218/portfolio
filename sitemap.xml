@@ -1,6 +1,640 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>/</loc>
-</url>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Pages: 23 links with priority=0.3, changefreq=monthly -->
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/404.html</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/blog/archive/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/atom.xml</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/changelog/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/contact/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/documentation/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/feed.xml</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/getting-started/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/headers/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/humans.txt</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/blog/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/info/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/redirect-page/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/roadmap/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/robots.txt</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/search/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/sitemap.xml</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/blog/page2/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/blog/page3/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/blog/page4/</loc>
+	
+		<lastmod>2024-07-26T00:19:52+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+
+<!-- Posts: 19 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/mediaelement_js/</loc>
+	
+		<lastmod>2015-10-15T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/typography/typography/</loc>
+	
+		<lastmod>2015-08-16T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/comments/</loc>
+	
+		<lastmod>2015-08-15T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/no-header/</loc>
+	
+		<lastmod>2015-08-11T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/no-header-but-image/</loc>
+	
+		<lastmod>2015-03-12T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/header-with-text/</loc>
+	
+		<lastmod>2015-02-10T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/header-logo-only/</loc>
+	
+		<lastmod>2014-10-09T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/header-image-color/</loc>
+	
+		<lastmod>2014-10-09T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/header-full-width-image/</loc>
+	
+		<lastmod>2014-10-09T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/header-image-pattern/</loc>
+	
+		<lastmod>2014-10-08T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/gallery/</loc>
+	
+		<lastmod>2014-09-15T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/video/</loc>
+	
+		<lastmod>2014-09-14T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/grid/</loc>
+	
+		<lastmod>2014-09-13T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/portfolio/</loc>
+	
+		<lastmod>2014-09-10T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/page-fullwidth/</loc>
+	
+		<lastmod>2014-08-19T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/post-right-sidebar/</loc>
+	
+		<lastmod>2014-07-10T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/page/</loc>
+	
+		<lastmod>2014-07-10T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/breadcrumb/</loc>
+	
+		<lastmod>2014-07-10T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/design/post-left-sidebar/</loc>
+	
+		<lastmod>2014-07-09T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+
 </urlset>
