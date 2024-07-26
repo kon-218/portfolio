@@ -1,0 +1,122 @@
+---
+layout: default
+format: frontpage
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+<div class="row t30">
+    <div class="medium-8 columns">
+        <!-- Main content area -->
+        <h1>Welcome to My Website</h1>
+        <p>Here's some introductory text that will appear at the top of your page. perfect for intoducing yourself and asking what your want from the world</p>
+    </div>
+
+    <div class="medium-4 columns">
+        <!-- Right sidebar content -->
+        <div class="panel">
+            <h4>Connect with Me</h4>
+            <ul class="social-connections">
+                <li><a href="mailto:your-email@example.com"><i class="fas fa-envelope"></i> your-email@example.com</a></li>
+                <li><a href="https://www.linkedin.com/in/yourprofile" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
+                <li><a href="https://www.instagram.com/yourprofile" target="_blank"><i class="fab fa-instagram"></i> Instagram</a></li>
+                <li><a href="https://twitter.com/yourprofile" target="_blank"><i class="fab fa-twitter"></i> X (Twitter)</a></li>
+            </ul>
+
+            <h4>Quick Links</h4>
+            <ul class="quick-links">
+                <li><a href="{{ url }}/about"><i class="fas fa-info-circle"></i> About Me</a></li>
+                <li><a href="{{ url }}/portfolio"><i class="fa-solid fa-newspaper"></i> Portfolio / CV</a></li>
+                <li><a href="{{ url }}/blog"><i class="fas fa-blog"></i> Blog</a></li>
+                <li><a href="{{ url }}/contact"><i class="fas fa-envelope"></i> Contact</a></li>
+            </ul>
+        </div>
+    </div>
+
+<!-- Widgets Section -->
+<div class="row t60">
+    <div class="small-12 columns">
+        <!-- Widgets -->
+        {% if page.widget1.image or page.widget1.video or page.widget1.title %}
+            {% include _frontpage-widget.html widget=page.widget1 %}
+        {% endif %}
+
+        {% if page.widget2.image or page.widget2.video or page.widget2.title %}
+            {% include _frontpage-widget.html widget=page.widget2 %}
+        {% endif %}
+
+        {% if page.widget3.image or page.widget3.video or page.widget3.title %}
+            {% include _frontpage-widget.html widget=page.widget3 %}
+        {% endif %}
+    </div>
+</div>
+
+<!-- Call to Action Button -->
+{% if page.callforaction %}
+    <div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div>
+    </div>
+{% endif %}
+
+<!-- Blog Posts Section -->
+{% comment %}
+*
+* First check, if there are any posts at all
+*
+{% endcomment %}
+
+{% unless site.posts == empty %}
+    <div class="row t30 b20 homepage">
+        <div class="small-12 columns">
+            {% for post in site.posts limit:1 %}
+            {% if post.image.homepage %}
+            <p>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
+            </p>
+
+            {% if post.image.caption_url and post.image.caption %}
+            <p class="text-right caption">
+                <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
+            </p>
+            {% endif %}
+            {% else post.image.homepage == NULL %}
+            <h2>{{ site.data.language.new_blog_entries }}</h2>
+            {% endif %}
+            {% endfor %}
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+    <div class="row">
+        <div class="medium-6 columns">
+            {% for post in site.posts limit:1 %}
+            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
+            <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <p>
+                {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+            </p>
+            {% endfor %}
+        </div><!-- /.medium-6.columns -->
+
+        <div class="medium-6 columns">
+            <p><strong>{{ site.data.language.more_articles }}</strong></p>
+            {% include list-posts entries='3' offset='1' %}
+        </div><!-- /.medium-6.columns -->
+    </div><!-- /.row -->
+{% endunless %}
+
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
