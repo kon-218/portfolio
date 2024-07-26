@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll',  "~> 4.1"
 gem "webrick"
-gem 'csv'
+gem 'csv', "~> 3.3"
 gem 'base64'
 gem 'faraday-retry' # Only add this if you're using Faraday's retry middleware
 

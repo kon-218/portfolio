@@ -6,9 +6,11 @@
 #
 layout: frontpage 
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    title: Konstantin Nomerotski
+    subtitle: Chemistry, Computing and New York
+    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
     caption: This is a caption for the header image with link
-    caption_url: https://unsplash.com/  
+    caption_url: https://unsplash.com/
 widget1:
   title: "Blog & Portfolio"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
