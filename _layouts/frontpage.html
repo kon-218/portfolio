@@ -6,8 +6,30 @@ format: frontpage
 <div class="row t30">
     <div class="medium-8 columns">
         <!-- Main content area -->
-        <h1>Welcome to My Website</h1>
-        <p>Here's some introductory text that will appear at the top of your page. perfect for intoducing yourself and asking what your want from the world</p>
+        <h1>Welcome to My Website!</h1>
+        <h3>Who am I?</h3>
+
+        <p>
+            My name is Konstantin, and I'm a proud graduate of the University of Bristol, where I achieved a First Class Honours degree in Chemistry with Computing. Having recently moved to the United States, I am excited to dive into new opportunities and challenges that align with my passion for merging the worlds of computing and chemistry.
+        </p>
+        <p>
+            Throughout my academic journey, I have developed a deep interest in how data science, software engineering, and high-performance computing (HPC) can drive scientific progress. I am deeply grateful that my University course allowed me to explore the powerful contributions that computational chemistry can make research.
+        </p>
+
+        <h3>What can you find here?</h3>
+        
+        
+            <ul>
+                <li>It's a place for me to showcase my work and experience.</li>
+                <li>It's a place for me to share my thoughts and ideas.</li>
+                <li>It's a place for you to learn more about me and get in touch.</li>
+            </ul>
+        
+        <p>
+        I also hope to be able to put up little programming guides to teach you about jekyll, css, and html as I build and expand the website. There is a chance that this will turn into broader programming guides for beginners, but we'll see how it goes.
+        </p>
+        <p>
+        </p>
     </div>
 
     <div class="medium-4 columns">
@@ -31,21 +53,24 @@ format: frontpage
         </div>
     </div>
 
+</div>
+
 <!-- Widgets Section -->
 <div class="row t60">
     <div class="small-12 columns">
-        <!-- Widgets -->
-        {% if page.widget1.image or page.widget1.video or page.widget1.title %}
-            {% include _frontpage-widget.html widget=page.widget1 %}
-        {% endif %}
+        <div class="widgets-container">
+            {% if page.widget1.image or page.widget1.video or page.widget1.title %}
+                {% include _frontpage-widget.html widget=page.widget1 %}
+            {% endif %}
 
-        {% if page.widget2.image or page.widget2.video or page.widget2.title %}
-            {% include _frontpage-widget.html widget=page.widget2 %}
-        {% endif %}
+            {% if page.widget2.image or page.widget2.video or page.widget2.title %}
+                {% include _frontpage-widget.html widget=page.widget2 %}
+            {% endif %}
 
-        {% if page.widget3.image or page.widget3.video or page.widget3.title %}
-            {% include _frontpage-widget.html widget=page.widget3 %}
-        {% endif %}
+            {% if page.widget3.image or page.widget3.video or page.widget3.title %}
+                {% include _frontpage-widget.html widget=page.widget3 %}
+            {% endif %}
+        </div>
     </div>
 </div>
 

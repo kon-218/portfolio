@@ -368,6 +368,34 @@ body.video cite { color: #fff; }
 .pr10 { padding-right: 10px !important; }
 .pr20 { padding-right: 20px !important; }
 
+.widgets-container {
+    display: flex;
+    justify-content: space-between; /* Adjust spacing between widgets */
+}
+
+.widgets-container {
+    display: flex;
+    justify-content: space-between; /* Adjust spacing between widgets */
+}
+
+.frontpage-widget {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Ensure text is top-aligned */
+    flex: 1; /* Ensure widgets take up equal space */
+    margin: 0 10px; /* Adjust margin as needed */
+}
+
+.frontpage-widget .button-container {
+    margin-top: auto; /* Push the button to the bottom */
+}
+
+.widget-image {
+    width: 300px; /* Set the desired width */
+    height: 200px; /* Set the desired height */
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+}
+
 // /* Custom styles to improve readability and layout */
 // body {
 //     font-size: 18px;
@@ -397,6 +425,10 @@ body.video cite { color: #fff; }
 // /* Increase spacing between elements */
 // .widget {
 //     margin-bottom: 2em;
+// }
+
+// .widgets-spacing {
+//     margin-top: 100px; /* Adjust the value as needed */
 // }
 
 // /* Larger text for headings */

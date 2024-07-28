@@ -1,10 +1,41 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: CV / Portfolio
+  url: "/cv/"
   side: left
+  dropdown:
+  - title: "About"
+    url: "/cv/about/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Portfolio"
+    url: "/portfolio/"
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Recent"
+    url: "/blog/"
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Guides & Tutorials"
+  url: "/guides/"
+  side: left
+  dropdown:
+  - title: "Topics"
+    url: "/guides/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
 
 - title: "Templates"
   url: "/design/"
@@ -59,17 +90,6 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
+- title: Getting Started
+  url: "/getting-started/"
   side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
-  side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
