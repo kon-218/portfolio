@@ -396,6 +396,101 @@ body.video cite { color: #fff; }
     object-fit: cover; /* Ensures the image covers the area without distortion */
 }
 
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.columns {
+    display: flex;
+    flex-direction: column;
+}
+
+.columns img {
+    max-width: 100%;
+    height: auto;
+}
+
+.columns ul {
+    flex-grow: 1;
+}
+.image-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px; /* Adjust the gap as needed */
+}
+
+.image-item {
+    flex: 1 1 calc(33.333% - 20px); /* Subtracting the gap */
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image-item img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.image-item p {
+    margin-top: 10px;
+    text-align: center;
+}
+
+// CV
+
+.cv-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.cv-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cv-header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+.cv-header p {
+    margin: 5px 0;
+}
+
+.cv-section {
+    margin-bottom: 20px;
+}
+
+.cv-section h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.cv-item h3 {
+    margin: 0;
+    font-size: 1.2em;
+}
+
+.cv-item p {
+    margin: 5px 0;
+}
+
+.cv-item ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+.cv-item ul li {
+    margin-bottom: 5px;
+}
+
 // /* Custom styles to improve readability and layout */
 // body {
 //     font-size: 18px;

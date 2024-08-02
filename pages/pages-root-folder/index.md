@@ -11,7 +11,7 @@ header:
     image_fullwidth: unsplash_brooklyn-bridge_header.jpg
     caption: Brooklyn Bridge
     caption_url: https://unsplash.com/
-widget1:
+widget3:
   title: "Blog"
   url: 'http://phlow.github.io/feeling-responsive/blog/'
   image: header_unsplash_8.jpg
@@ -21,7 +21,7 @@ widget2:
   url: 'http://phlow.github.io/feeling-responsive/info/'
   image: widget-1-302x182.jpg
   text: 'Guides for Jekyll, CSS, HTML and Python. Maybe some miniseries to come.'
-widget3:
+widget1:
   title: "Portfolio / CV"
   url: 'https://github.com/Phlow/feeling-responsive'
   image: header_typewriter.jpg

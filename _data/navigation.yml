@@ -7,7 +7,7 @@
   side: left
   dropdown:
   - title: "About"
-    url: "/cv/about/"
+    url: "/about/"
   - title: "CV"
     url: "/cv/"
   - title: "Portfolio"
