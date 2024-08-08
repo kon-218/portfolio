@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://konstantin-nomerotski.github.io/home/sitemap.xml
+Sitemap: https://kon-218.github.io/home/sitemap.xml

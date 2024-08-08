@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://konstantin-nomerotski.github.io/home/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="https://konstantin-nomerotski.github.io/home/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="https://kon-218.github.io/home/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://kon-218.github.io/home/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Konstantin Nomerotski - Portfolio</title>
 		<description>» A portfolio / blog «</description>
-		<link>https://konstantin-nomerotski.github.io/home/</link>
-		<atom:link href="https://konstantin-nomerotski.github.io/home/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://kon-218.github.io/home/</link>
+		<atom:link href="https://kon-218.github.io/home/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Web Main</title>
-				<link>https://konstantin-nomerotski.github.io/home/web-main/</link>
+				<link>https://kon-218.github.io/home/web-main/</link>
 				<pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 				<description>
 </description>
-				<guid isPermaLink="true">https://konstantin-nomerotski.github.io/home/web-main/</guid>
+				<guid isPermaLink="true">https://kon-218.github.io/home/web-main/</guid>
 			</item>
 		
 			<item>
 				<title>Guides Archive</title>
-				<link>https://konstantin-nomerotski.github.io/home/guides/toc/</link>
+				<link>https://kon-218.github.io/home/guides/toc/</link>
 				<pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 				<description>&lt;div id=&quot;guides-index&quot; class=&quot;row&quot;&gt;
 	&lt;div class=&quot;small-12 columns t30&quot;&gt;
@@ -198,12 +198,12 @@
 &lt;/div&gt;
 &lt;!-- /.row --&gt;
 </description>
-				<guid isPermaLink="true">https://konstantin-nomerotski.github.io/home/guides/toc/</guid>
+				<guid isPermaLink="true">https://kon-218.github.io/home/guides/toc/</guid>
 			</item>
 		
 			<item>
 				<title>Python Homepage</title>
-				<link>https://konstantin-nomerotski.github.io/home/guides/python/</link>
+				<link>https://kon-218.github.io/home/guides/python/</link>
 				<pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -241,21 +241,21 @@
 &lt;/div&gt;
   &lt;/div&gt;&lt;/div&gt;
 </description>
-				<guid isPermaLink="true">https://konstantin-nomerotski.github.io/home/guides/python/</guid>
+				<guid isPermaLink="true">https://kon-218.github.io/home/guides/python/</guid>
 			</item>
 		
 			<item>
 				<title>Other Main</title>
-				<link>https://konstantin-nomerotski.github.io/home/other-main/</link>
+				<link>https://kon-218.github.io/home/other-main/</link>
 				<pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
 				<description>
 </description>
-				<guid isPermaLink="true">https://konstantin-nomerotski.github.io/home/other-main/</guid>
+				<guid isPermaLink="true">https://kon-218.github.io/home/other-main/</guid>
 			</item>
 		
 			<item>
 				<title>Page/Post Right Sidebar</title>
-				<link>https://konstantin-nomerotski.github.io/home/portfolio/this-website/</link>
+				<link>https://kon-218.github.io/home/portfolio/this-website/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -275,39 +275,39 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://konstantin-nomerotski.github.io/home/portfolio/this-website/</guid>
+				<guid isPermaLink="true">https://kon-218.github.io/home/portfolio/this-website/</guid>
 			</item>
 		
 			<item>
 				<title>Page/Post Right Sidebar</title>
-				<link>https://konstantin-nomerotski.github.io/home/portfolio/rep-sampling-for-nea/</link>
+				<link>https://kon-218.github.io/home/portfolio/rep-sampling-for-nea/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -327,39 +327,39 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://konstantin-nomerotski.github.io/home/portfolio/rep-sampling-for-nea/</guid>
+				<guid isPermaLink="true">https://kon-218.github.io/home/portfolio/rep-sampling-for-nea/</guid>
 			</item>
 		
 			<item>
 				<title>Page/Post Right Sidebar</title>
-				<link>https://konstantin-nomerotski.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/</link>
+				<link>https://kon-218.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -379,39 +379,39 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://konstantin-nomerotski.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/</guid>
+				<guid isPermaLink="true">https://kon-218.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/</guid>
 			</item>
 		
 			<item>
 				<title>Page/Post Right Sidebar</title>
-				<link>https://konstantin-nomerotski.github.io/home/portfolio/biscuit-dunking-analysis/</link>
+				<link>https://kon-218.github.io/home/portfolio/biscuit-dunking-analysis/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -431,39 +431,39 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://konstantin-nomerotski.github.io/home/portfolio/biscuit-dunking-analysis/</guid>
+				<guid isPermaLink="true">https://kon-218.github.io/home/portfolio/biscuit-dunking-analysis/</guid>
 			</item>
 		
 			<item>
 				<title>Page/Post Right Sidebar</title>
-				<link>https://konstantin-nomerotski.github.io/home/portfolio/atmospec-data-visualization-module/</link>
+				<link>https://kon-218.github.io/home/portfolio/atmospec-data-visualization-module/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -483,39 +483,39 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://konstantin-nomerotski.github.io/home/portfolio/atmospec-data-visualization-module/</guid>
+				<guid isPermaLink="true">https://kon-218.github.io/home/portfolio/atmospec-data-visualization-module/</guid>
 			</item>
 		
 			<item>
 				<title>Accelerating Python code</title>
-				<link>https://konstantin-nomerotski.github.io/home/portfolio/accelerating-python-code/</link>
+				<link>https://kon-218.github.io/home/portfolio/accelerating-python-code/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
 &lt;!--more--&gt;&lt;/p&gt;
@@ -535,34 +535,34 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;https://konstantin-nomerotski.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kon-218.github.io/home/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">https://konstantin-nomerotski.github.io/home/portfolio/accelerating-python-code/</guid>
+				<guid isPermaLink="true">https://kon-218.github.io/home/portfolio/accelerating-python-code/</guid>
 			</item>
 		
 	</channel>
