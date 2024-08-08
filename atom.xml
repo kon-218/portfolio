@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://konstantin-nomerotski.github.io/home/</id>
 	<title>Konstantin Nomerotski - Portfolio</title>
-	<updated>2024-08-08T19:30:45+00:00</updated>
+	<updated>2024-08-08T19:33:05+00:00</updated>
 
 	<subtitle>» A portfolio / blog «</subtitle>
 
@@ -38,10 +38,6 @@
 						<name>Konstantin N</name>
 					
 					
-						<email>kon50@hotmail.co.uk</email>
-					
-					
-						<uri>http://</uri>
 					
 				</author>
 			
@@ -68,10 +64,6 @@
 						<name>Konstantin N</name>
 					
 					
-						<email>kon50@hotmail.co.uk</email>
-					
-					
-						<uri>http://</uri>
 					
 				</author>
 			
@@ -273,10 +265,6 @@
 						<name>Konstantin N</name>
 					
 					
-						<email>kon50@hotmail.co.uk</email>
-					
-					
-						<uri>http://</uri>
 					
 				</author>
 			
@@ -313,7 +301,7 @@
     &lt;p&gt;&lt;img src=&quot;../../images/ilovepython2.jpg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
 
     &lt;div class=&quot;header-test&quot;&gt;
-  &lt;img src=&quot;../../../images/ilovepython2.jpg&quot; alt=&quot;Header Test&quot; /&gt;
+  &lt;img src=&quot;/images/ilovepython2.jpg&quot; alt=&quot;Header Test&quot; /&gt;
 &lt;/div&gt;
   &lt;/div&gt;&lt;/div&gt;
 </content>
@@ -341,10 +329,6 @@
 						<name>Konstantin N</name>
 					
 					
-						<email>kon50@hotmail.co.uk</email>
-					
-					
-						<uri>http://</uri>
 					
 				</author>
 			
@@ -371,10 +355,6 @@
 						<name>Konstantin N</name>
 					
 					
-						<email>kon50@hotmail.co.uk</email>
-					
-					
-						<uri>http://</uri>
 					
 				</author>
 			
@@ -448,10 +428,6 @@
 						<name>Konstantin N</name>
 					
 					
-						<email>kon50@hotmail.co.uk</email>
-					
-					
-						<uri>http://</uri>
 					
 				</author>
 			
@@ -525,10 +501,6 @@
 						<name>Konstantin N</name>
 					
 					
-						<email>kon50@hotmail.co.uk</email>
-					
-					
-						<uri>http://</uri>
 					
 				</author>
 			
@@ -602,10 +574,6 @@
 						<name>Konstantin N</name>
 					
 					
-						<email>kon50@hotmail.co.uk</email>
-					
-					
-						<uri>http://</uri>
 					
 				</author>
 			
@@ -679,10 +647,6 @@
 						<name>Konstantin N</name>
 					
 					
-						<email>kon50@hotmail.co.uk</email>
-					
-					
-						<uri>http://</uri>
 					
 				</author>
 			
@@ -756,10 +720,6 @@
 						<name>Konstantin N</name>
 					
 					
-						<email>kon50@hotmail.co.uk</email>
-					
-					
-						<uri>http://</uri>
 					
 				</author>
 			
