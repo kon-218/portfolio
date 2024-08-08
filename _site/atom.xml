@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4001/</id>
+	<title>Konstantin Nomerotski - Portfolio</title>
+	<updated>2024-08-08T20:46:24+00:00</updated>
+
+	<subtitle>» A portfolio / blog «</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Konstantin Nomerotski</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4001/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4001/" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="4.3.3">Jekyll</generator>
+
+	
+		<entry>
+			<id>http://localhost:4001/web-main/</id>
+			<title>Web Main</title>
+			<link href="http://localhost:4001/web-main/" rel="alternate" type="text/html" title="Web Main" />
+			<updated>2024-08-07T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4001/web-main/">
+</content>
+
+			
+			
+
+			<published>2024-08-07T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4001/guides/toc/</id>
+			<title>Guides Archive</title>
+			<link href="http://localhost:4001/guides/toc/" rel="alternate" type="text/html" title="Guides Archive" />
+			<updated>2024-08-07T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>Explore all the guides and tutorials available in the Guides section.</summary>
+			<content type="html" xml:base="http://localhost:4001/guides/toc/">&lt;div id=&quot;guides-index&quot; class=&quot;row&quot;&gt;
+	&lt;div class=&quot;small-12 columns t30&quot;&gt;
+		&lt;h1&gt;Guides Archive&lt;/h1&gt;
+		&lt;p class=&quot;teaser&quot;&gt;Explore all the guides and tutorials available in the Guides section.&lt;/p&gt;
+
+		&lt;dl class=&quot;accordion&quot; data-accordion=&quot;&quot;&gt;
+			
+
+			
+				
+					&lt;dd class=&quot;accordion-navigation&quot;&gt;
+						&lt;a href=&quot;#panel1&quot;&gt;&lt;span class=&quot;iconfont&quot;&gt;&lt;/span&gt; &lt;strong&gt;Web Main&lt;/strong&gt;&lt;/a&gt;
+						&lt;div id=&quot;panel1&quot; class=&quot;content&quot;&gt;
+							
+							&lt;a href=&quot;/web-main/&quot; title=&quot;Read Web Main&quot;&gt;&lt;strong&gt;Read More&amp;nbsp;›&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+						&lt;/div&gt;
+					&lt;/dd&gt;
+					
+				
+			
+				
+					&lt;dd class=&quot;accordion-navigation&quot;&gt;
+						&lt;a href=&quot;#panel2&quot;&gt;&lt;span class=&quot;iconfont&quot;&gt;&lt;/span&gt; &lt;strong&gt;Guides Archive&lt;/strong&gt;&lt;/a&gt;
+						&lt;div id=&quot;panel2&quot; class=&quot;content&quot;&gt;
+							Explore all the guides and tutorials available in the Guides section.
+							&lt;a href=&quot;/guides/toc/&quot; title=&quot;Read Guides Archive&quot;&gt;&lt;strong&gt;Read More&amp;nbsp;›&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+						&lt;/div&gt;
+					&lt;/dd&gt;
+					
+				
+			
+				
+					&lt;dd class=&quot;accordion-navigation&quot;&gt;
+						&lt;a href=&quot;#panel3&quot;&gt;&lt;span class=&quot;iconfont&quot;&gt;&lt;/span&gt; Python › &lt;strong&gt;Python Homepage&lt;/strong&gt;&lt;/a&gt;
+						&lt;div id=&quot;panel3&quot; class=&quot;content&quot;&gt;
+							Python ... 
+							&lt;a href=&quot;/guides/python/&quot; title=&quot;Read Python Homepage&quot;&gt;&lt;strong&gt;Read More&amp;nbsp;›&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+						&lt;/div&gt;
+					&lt;/dd&gt;
+					
+				
+			
+				
+					&lt;dd class=&quot;accordion-navigation&quot;&gt;
+						&lt;a href=&quot;#panel4&quot;&gt;&lt;span class=&quot;iconfont&quot;&gt;&lt;/span&gt; &lt;strong&gt;Other Main&lt;/strong&gt;&lt;/a&gt;
+						&lt;div id=&quot;panel4&quot; class=&quot;content&quot;&gt;
+							
+							&lt;a href=&quot;/other-main/&quot; title=&quot;Read Other Main&quot;&gt;&lt;strong&gt;Read More&amp;nbsp;›&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+						&lt;/div&gt;
+					&lt;/dd&gt;
+					
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+					&lt;dd class=&quot;accordion-navigation&quot;&gt;
+						&lt;a href=&quot;#panel5&quot;&gt;&lt;span class=&quot;iconfont&quot;&gt;&lt;/span&gt; &lt;strong&gt;Learn with me!&lt;/strong&gt;&lt;/a&gt;
+						&lt;div id=&quot;panel5&quot; class=&quot;content&quot;&gt;
+							Topics include Python coding and packages, as well as Jekyll, HTML and SCSS
+							&lt;a href=&quot;/guides/&quot; title=&quot;Read Learn with me!&quot;&gt;&lt;strong&gt;Read More&amp;nbsp;›&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;
+						&lt;/div&gt;
+					&lt;/dd&gt;
+					
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+				
+			
+		&lt;/dl&gt;
+	&lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
+&lt;/div&gt;
+&lt;!-- /.row --&gt;
+</content>
+
+			
+			
+
+			<published>2024-08-07T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4001/guides/python/</id>
+			<title>Python Homepage</title>
+			<link href="http://localhost:4001/guides/python/" rel="alternate" type="text/html" title="Python Homepage" />
+			<updated>2024-08-07T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>Python ... </summary>
+			<content type="html" xml:base="http://localhost:4001/guides/python/">&lt;!--more--&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
+    &lt;div class=&quot;panel radius&quot;&gt;
+      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#lato--a-sans-serif-typeface-family&quot; id=&quot;markdown-toc-lato--a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;/div&gt;
+  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
+
+&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
+
+    &lt;h2 id=&quot;lato--a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/h2&gt;
+
+    &lt;p&gt;[&lt;dfn&gt;Lato&lt;/dfn&gt;][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google.&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;&lt;span class=&quot;teaser&quot;&gt;I do not think of type as something that should be readable. It should be beautiful.&lt;/span&gt;&lt;cite&gt;[Ed Benguiat][3]&lt;/cite&gt;&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;In the last ten or so years, during which Łukasz has been designing type, most of his projects were rooted in a particular design task that he needed to solve. With Lato, it was no different. Originally, the family was conceived as a set of corporate fonts for a large client — who in the end decided to go in different stylistic direction, so the family became available for a public release.&lt;/p&gt;
+
+    &lt;p&gt;When working on Lato, Łukasz tried to carefully balance some potentially conflicting priorities. He wanted to create a typeface that would seem quite “transparent” when used in body text but would display some original traits when used in larger sizes. He used classical proportions (particularly visible in the uppercase) to give the letterforms familiar harmony and elegance. At the same time, he created a sleek sans serif look, which makes evident the fact that Lato was designed in 2010 — even though it does not follow any current trend.&lt;/p&gt;
+
+    &lt;p&gt;The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz. Learn more at [www.latofonts.com][6]&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;../../images/ilovepython2.jpg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
+
+    &lt;div class=&quot;header-test&quot;&gt;
+  &lt;img src=&quot;/images/ilovepython2.jpg&quot; alt=&quot;Header Test&quot; /&gt;
+&lt;/div&gt;
+  &lt;/div&gt;&lt;/div&gt;
+</content>
+
+			
+				<category term="guides" />
+			
+				<category term="python" />
+			
+			
+
+			<published>2024-08-07T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4001/other-main/</id>
+			<title>Other Main</title>
+			<link href="http://localhost:4001/other-main/" rel="alternate" type="text/html" title="Other Main" />
+			<updated>2024-08-07T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4001/other-main/">
+</content>
+
+			
+			
+
+			<published>2024-08-07T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4001/portfolio/this-website/</id>
+			<title>Page/Post Right Sidebar</title>
+			<link href="http://localhost:4001/portfolio/this-website/" rel="alternate" type="text/html" title="Page/Post Right Sidebar" />
+			<updated>2024-08-04T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>This is an example of page/post with a sidebar on the right.</summary>
+			<content type="html" xml:base="http://localhost:4001/portfolio/this-website/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2024-08-04T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4001/portfolio/rep-sampling-for-nea/</id>
+			<title>Page/Post Right Sidebar</title>
+			<link href="http://localhost:4001/portfolio/rep-sampling-for-nea/" rel="alternate" type="text/html" title="Page/Post Right Sidebar" />
+			<updated>2024-08-04T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>This is an example of page/post with a sidebar on the right.</summary>
+			<content type="html" xml:base="http://localhost:4001/portfolio/rep-sampling-for-nea/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2024-08-04T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4001/portfolio/cloud-paradigm-atlas-data-processing/</id>
+			<title>Page/Post Right Sidebar</title>
+			<link href="http://localhost:4001/portfolio/cloud-paradigm-atlas-data-processing/" rel="alternate" type="text/html" title="Page/Post Right Sidebar" />
+			<updated>2024-08-04T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>This is an example of page/post with a sidebar on the right.</summary>
+			<content type="html" xml:base="http://localhost:4001/portfolio/cloud-paradigm-atlas-data-processing/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="projects" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2024-08-04T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4001/portfolio/biscuit-dunking-analysis/</id>
+			<title>Page/Post Right Sidebar</title>
+			<link href="http://localhost:4001/portfolio/biscuit-dunking-analysis/" rel="alternate" type="text/html" title="Page/Post Right Sidebar" />
+			<updated>2024-08-04T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>This is an example of page/post with a sidebar on the right.</summary>
+			<content type="html" xml:base="http://localhost:4001/portfolio/biscuit-dunking-analysis/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2024-08-04T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4001/portfolio/atmospec-data-visualization-module/</id>
+			<title>Page/Post Right Sidebar</title>
+			<link href="http://localhost:4001/portfolio/atmospec-data-visualization-module/" rel="alternate" type="text/html" title="Page/Post Right Sidebar" />
+			<updated>2024-08-04T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>This is an example of page/post with a sidebar on the right.</summary>
+			<content type="html" xml:base="http://localhost:4001/portfolio/atmospec-data-visualization-module/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="design" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2024-08-04T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4001/portfolio/accelerating-python-code/</id>
+			<title>Accelerating Python code</title>
+			<link href="http://localhost:4001/portfolio/accelerating-python-code/" rel="alternate" type="text/html" title="Accelerating Python code" />
+			<updated>2024-08-04T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>Exploring tools such as OpenMP, MPI and C++, as well as Python modules Cython and Numba to increase the efficiency of the computationally intensive Lebwhol-Lasher fluid model coded in Python</summary>
+			<content type="html" xml:base="http://localhost:4001/portfolio/accelerating-python-code/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4001/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="projects" />
+			
+			
+				<category term="post format" />
+			
+
+			<published>2024-08-04T00:00:00+00:00</published>
+		</entry>
+	
+</feed>
