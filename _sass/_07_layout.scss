@@ -492,6 +492,69 @@ body.video cite { color: #fff; }
 }
 
 // /* Custom styles to improve readability and layout */
+// Guides page 
+
+.guides-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+
+    .guide-item {
+        position: relative;
+        width: 30%;
+        overflow: hidden;
+        border-radius: 10px;
+        transition: transform 0.3s;
+        
+        &:hover {
+            transform: scale(1.05);
+
+            img {
+                filter: blur(5px);
+            }
+
+            .guide-info {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            transition: filter 0.3s;
+        }
+
+        .guide-info {
+            position: absolute;
+            top: 10px; /* Adjust this value as needed */
+            left: 10px; /* Adjust this value as needed */
+            right: 10px; /* Adjust this value as needed */
+            text-align: left; /* Align text to the left */
+            color: white;
+            background: rgba(0, 0, 0, 0.5); /* Optional: Add a background for better readability */
+            padding: 10px; /* Optional: Add padding for better readability */
+            opacity: 0;
+            transition: opacity 0.3s, transform 0.3s;
+        }
+
+        h2, p {
+            margin: 0;
+        }
+
+        h2 {
+            color: white; /* Ensure the title is white */
+            margin-bottom: 10px; /* Optional: Add some space between the title and description */
+        }
+
+        p {
+            color: white; /* Ensure the description is white */
+        }
+    }
+}
+
 // body {
 //     font-size: 18px;
 //     line-height: 1.6;

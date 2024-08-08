@@ -13,17 +13,17 @@ header:
     caption_url: https://unsplash.com/
 widget3:
   title: "Blog"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  url: '/blog/'
   image: header_unsplash_8.jpg
   text: 'My thoughts and ideas, often inspired by reading. Sometimes about Chemistry, sometimes about Computing, possibly not at all'
 widget2:
   title: "Guides"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: '/guides/'
   image: widget-1-302x182.jpg
   text: 'Guides for Jekyll, CSS, HTML and Python. Maybe some miniseries to come.'
 widget1:
   title: "Portfolio / CV"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/cv/'
   image: header_typewriter.jpg
   text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
 #

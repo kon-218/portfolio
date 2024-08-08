@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: CV / Portfolio
+- title: CV
   url: "/cv/"
   side: left
   dropdown:
@@ -10,8 +10,23 @@
     url: "/about/"
   - title: "CV"
     url: "/cv/"
-  - title: "Portfolio"
-    url: "/portfolio/"
+
+- title: "Portfolio"
+  url: "/portfolio/"
+  side: left
+  dropdown:
+    - title: "Rep. Sampling for NEA"
+      url: "/portfolio/rep-sampling-for-nea/"
+    - title: "Biscuit Dunking Analysis"
+      url: "/portfolio/biscuit-dunking-analysis/"
+    - title: "Cloud paradigm ATLAS data processing"
+      url: "/portfolio/cloud-paradigm-atlas-data-processing/"
+    - title: "Atmospec Data Visualization module"
+      url: "/portfolio/atmospec-data-visualization-module/"
+    - title: "This Website"
+      url: "/portfolio/this-website/"
+    - title: "Python code acceleration"
+      url: "/portfolio/accelerating-python-code/"
 
 - title: Blog
   url: "/blog/"
