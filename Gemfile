@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll',  "~> 4.1"
+gem 'jekyll',  "~> 3.10.0"
 gem "webrick"
 gem 'csv', "~> 3.3"
 gem 'base64'
