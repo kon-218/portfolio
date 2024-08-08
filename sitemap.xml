@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 26 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 29 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/404.html</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/about/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +37,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/blog/archive/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -52,7 +52,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/atom.xml</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -67,7 +67,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/changelog/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -82,7 +82,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/contact/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -97,7 +97,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/cv/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -112,7 +112,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/design/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -127,7 +127,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/documentation/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -142,7 +142,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/feed.xml</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -157,7 +157,22 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/getting-started/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/guides/</loc>
+	
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -172,7 +187,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/headers/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -187,7 +202,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/humans.txt</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -202,7 +217,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/blog/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -217,7 +232,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -232,7 +247,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -247,7 +262,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/info/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -262,7 +277,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/portfolio/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -277,7 +292,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/redirect-page/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -292,7 +307,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/roadmap/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -307,7 +322,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/robots.txt</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -322,7 +337,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/search/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -337,7 +352,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/sitemap.xml</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -352,7 +367,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/blog/page2/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -367,7 +382,7 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/blog/page3/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -382,7 +397,37 @@
 	<url>
 	<loc>https://konstantin-nomerotski.github.io/home/blog/page4/</loc>
 	
-		<lastmod>2024-08-02T13:37:22+00:00</lastmod>
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/blog/page5/</loc>
+	
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/blog/page6/</loc>
+	
+		<lastmod>2024-08-08T19:12:25+00:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -394,7 +439,157 @@
 	
 
 
-<!-- Posts: 19 links with priority=0.5, changefreq=monthly -->
+<!-- Posts: 29 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/web-main/</loc>
+	
+		<lastmod>2024-08-07T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/guides/toc/</loc>
+	
+		<lastmod>2024-08-07T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/guides/python/</loc>
+	
+		<lastmod>2024-08-07T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/other-main/</loc>
+	
+		<lastmod>2024-08-07T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/portfolio/this-website/</loc>
+	
+		<lastmod>2024-08-04T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/portfolio/rep-sampling-for-nea/</loc>
+	
+		<lastmod>2024-08-04T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/portfolio/cloud-paradigm-atlas-data-processing/</loc>
+	
+		<lastmod>2024-08-04T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/portfolio/biscuit-dunking-analysis/</loc>
+	
+		<lastmod>2024-08-04T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/portfolio/atmospec-data-visualization-module/</loc>
+	
+		<lastmod>2024-08-04T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>https://konstantin-nomerotski.github.io/home/portfolio/accelerating-python-code/</loc>
+	
+		<lastmod>2024-08-04T00:00:00+00:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
 
 	
 	<url>
