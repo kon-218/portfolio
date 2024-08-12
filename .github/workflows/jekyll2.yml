@@ -7,6 +7,8 @@ permissions:
 
 # Manually trigger this workflow from the GitHub UI
 on:
+  push:
+    branches: ["main"]
   workflow_dispatch:
   
 jobs:
@@ -51,4 +53,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
