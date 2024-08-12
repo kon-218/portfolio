@@ -22,7 +22,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'  # Use the version of Ruby that Jekyll needs
+          ruby-version: '3.3.4'  # Use the version of Ruby that Jekyll needs
 
       # Cache Gems
       - name: Cache gems
