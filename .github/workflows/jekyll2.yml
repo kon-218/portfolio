@@ -1,9 +1,14 @@
 name: Deploy Jekyll Site
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 # Manually trigger this workflow from the GitHub UI
 on:
   workflow_dispatch:
-
+  
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
