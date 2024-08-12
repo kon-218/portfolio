@@ -56,16 +56,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v1
         
-- name: Download build artifact
-  uses: actions/download-artifact@v3
-  with:
-    name: build-artifact
-- name: Set up Pages
-  uses: actions/configure-pages@v2
-- name: Upload Pages artifact
-  uses: actions/upload-pages-artifact@v1
-  with:
-    path: .
-- name: Deploy
-  id: deployment # it was previously used to get the deployment URL
-  uses: actions/deploy-pages@v1
+
