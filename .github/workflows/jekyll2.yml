@@ -1,4 +1,4 @@
-name: Deploy Jekyll Site
+name: Deploy Jekyll Site 2
 
 permissions:
   contents: read
@@ -40,13 +40,6 @@ jobs:
       # Build the Jekyll site
       - name: Build the Jekyll site
         run: bundle exec jekyll build
-
-      # Deploy to GitHub Pages
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
 
   deploy:
     environment:
