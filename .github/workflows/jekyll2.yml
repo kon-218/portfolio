@@ -19,22 +19,28 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
-      - name: Set up Node
-        uses: actions/setup-node@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          node-version: 16
-          registry-url: https://registry.npmjs.org/
+          ruby-version: '3.3.4'
+
+      - name: Cache gems
+        uses: actions/cache@v3
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
       - name: Install dependencies
-        run: npm ci
-      - name: Build
-        run: npm run build
-      - name: Upload build artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: build-artifact
-          path: dist
+        run: bundle install
+
+      - name: Build the Jekyll site
+        run: bundle exec jekyll build
+        
   deploy:
     needs: build
     environment:
