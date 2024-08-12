@@ -40,12 +40,15 @@ jobs:
 
       - name: Build the Jekyll site
         run: bundle exec jekyll build
-
+        
+      - name: List files in _site
+        run: ls -la ./_site
+          
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           path: './_site'
-          name: 'github-pages'
+          name: pages
         
   deploy:
     needs: build
@@ -57,7 +60,9 @@ jobs:
       - name: Download build artifact
         uses: actions/download-artifact@v3
         with:
-          name: github-pages
+          name: pages
+      - name: List files after download
+        run: ls -la
       - name: Set up Pages
         uses: actions/configure-pages@v2
       - name: Upload Pages artifact
