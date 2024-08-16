@@ -10,6 +10,13 @@ header:
     caption_url: https://unsplash.com/
 permalink: /guides/
 ---
+<div class="card">
+    <div class="card-content">
+        <h2 class="card-title"> Python </h2>
+        <p class="card-body">Learn the basics of Python programming, including syntax, data types, and basic operations.</p>
+        <a href="#" class="button-guides"> Learn More </a>
+    </div>
+</div>
 
 <div class="guides-container">
     <a href="/home/guides/python/" class="guide-item">
