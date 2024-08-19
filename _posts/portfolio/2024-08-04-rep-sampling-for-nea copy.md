@@ -13,12 +13,14 @@ categories:
     - projects
 image:
     thumb: gallery-example-2-thumb.jpg
-    title: /images/a.png/
+    title: /images/a.png
     caption: Unsplash.com
     caption_url: http://unsplash.com
 permalink: /portfolio/rep-sampling-for-nea/
 header: no
 ---
+
+<img src="../../images/a.png">
 
 Masters thesis project at the University of Bristol <a href="https://in-silico-photochem.com/">InSilicoPhotochemistry</a> group
 
@@ -28,13 +30,17 @@ The primary aim of this thesis was to implement optimal sampling of a representa
 
 <h3>Background</h3>
 
-<h5>Photoabsorption Cross-Sections:</h5> Photoabsorption cross-sections are fundamental parameters that quantify the likelihood of a photon being absorbed by a molecule. They play a crucial role in atmospheric chemistry and photochemistry. They help us understand how volatile organic compounds (VOCs) interact with light, which is essential for modeling atmospheric processes, predicting the behavior of pollutants, and assessing their impact on climate and air quality.
+<h5>Photoabsorption Cross-Sections:</h5> 
 
-<h5>Challenges in Calculation:</h5> The traditional methods for calculating photoabsorption cross-sections often rely on quantum mechanical approaches, which can be computationally intensive. These methods typically require the evaluation of a large number of nuclear geometries to capture the full range of molecular conformations that contribute to the absorption spectrum. As the complexity of the molecule increases, the number of required calculations can grow exponentially, making it computationally prohibitive to obtain accurate results for larger or more complex VOCs.
+Photoabsorption cross-sections are fundamental parameters that quantify the likelihood of a photon being absorbed by a molecule. They play a crucial role in atmospheric chemistry and photochemistry. They help us understand how volatile organic compounds (VOCs) interact with light, which is essential for modeling atmospheric processes, predicting the behavior of pollutants, and assessing their impact on climate and air quality.
+
+<h5>Challenges in Calculation:</h5> 
+
+The traditional methods for calculating photoabsorption cross-sections often rely on quantum mechanical approaches, which can be computationally intensive. These methods typically require the evaluation of a large number of nuclear geometries to capture the full range of molecular conformations that contribute to the absorption spectrum. As the complexity of the molecule increases, the number of required calculations can grow exponentially, making it computationally prohibitive to obtain accurate results for larger or more complex VOCs.
 
 The Nuclear Ensemble Approach is a powerful technique that allows for the consideration of multiple nuclear configurations simultaneously. By averaging over a large ensemble of molecular geometries, this method can provide a more accurate representation of the system's behavior. However, the requirement for thousands of nuclear geometries poses significant challenges in terms of computational resources and time, particularly for complex molecules.
 
-<h5>Representative Sampling</h5>
+<h5>Representative Sampling:</h5>
 
 Representative sampling aims to reduce the number of nuclear geometries needed in an ensemble to reduce the computational burden of photoabsorption cross-section calculations. It runs an initial exploratory calculation using a large ensemble (> 1000), then iteratively reduces the ensemble size using Simulated Annealing and Kullbeck-Leibler divergence algorithms. The overall aim is the minimize the number of geometries while retaining the most information within the ensemble as possible.
 
@@ -51,6 +57,5 @@ Representative sampling method within the Nuclear Ensemble Approach was successf
 
 
 
-## Other Post Formats
-{: .t60 }
+<h3>Other Projects</h3>
 {% include list-posts category='projects' %}

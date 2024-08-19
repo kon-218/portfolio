@@ -19,20 +19,24 @@ image:
 permalink: /portfolio/accelerating-python-code/
 header: no
 ---
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
-<!--more-->
 
-~~~
-show_meta: true
-~~~
+<h3>Project Objectives</h3>
 
-If you don't want to show metadata, it's simple again:
+To increase the efficiency of Lebwhol Lasher model, coded in Python, by investigating and reducing code bottlenecks. A combination of techniques were used including OpenMP, MPI and C++, as well as Python modules numba and numpy.
 
-~~~
-show_meta: false
-~~~
+<h3>Background</h3>
+<h5>Lebwohl Lasher model:</h5>
+
+<h5>Increasing the efficiency:</h5>
 
 
+<h3>Results</h3>
+
+Implemented combinations of accelleration methods to reduce bottlenecks in the computationally intensive Lebwohl Lasher method. Key results include:
+
+<ul>
+<li></li>
+</ul>
 ## Other Post Formats
 {: .t60 }
-{% include list-posts tag='post format' %}
+{% include list-posts category='projects' %}

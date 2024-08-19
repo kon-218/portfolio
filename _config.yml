@@ -41,7 +41,7 @@ improve_content: https://github.com/kon-218/portfolio/edit/gh-pages
 #
 #urlimg: 'https://kon-218.github.io/home/images/'
 urlimg: 'https://phlow.github.io/feeling-responsive/images/'
-#urlimg: 'https://kon-218.github.io/home/images/'
+urlimg: 'https://kon-218.github.io/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

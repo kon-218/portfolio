@@ -29,26 +29,24 @@ This investigation aimed to explore the physical differences between biscuits th
 
 <h3>Background</h3>
 
-<h5>Biscuit dunking data:</h5> Three seperate databases were provided, the dunking data,
+<h5>Capillary action:</h5> The primary focus of this study was the relationship between the pore radius of the biscuits and their ability to absorb liquid, which is governed by capillary action. This is the ability of a liquid to flow in narrow spaces, even against gravity, and it is heavily influenced by the physical properties of the material - in this case, biscuits. The Washburn equation, a fundemental model of capillary flow action, was found to give a good estimate of the pore radius from the available data, therefore this was used as a starting point as a pore radius predictor
 
-<h5>Washburn Equation:</h5>
+<h5>Biscuit Classification:</h5> 
 
-The Washburn equation is a fundemental model of capillary flow action, its performance for the modelling of capillary flow action was analysed using the microscopy data, it was found to predict accurately for these data points, therefore was used as a starting point for predicting the pore radii of the remaining biscuit data.
+Biscuit classification was attempted with and without the pore radius, finding greatly improved classification with the pore radius included. Both Supervised and Unsupervised methods were used, K-means clustering was attempted, however it was found to misinterpret Rich Tea for Hobnobs, and vice versa. A tuned Random Forest Classifier was found to be the best supervised predictor of biscuit type, with a 93.5 % minimum accuracy for Hobnobs, ranging to 100 % accuracy for Digestive biscuits
 
-<h5>Machine Learning approach:</h5> 
-
-Biscuit classification attempted with and without the pore radius, finding greatly improved classification with the pore radius included. 
+<h5>Regression..</h5>
 
 <h3>Results</h3>
 
-
 <ul>
-<li></li>
+<li>Performed exploratory data analysis (EDA) to clean and interpret experimental biscuit dunking data.</li>
+<li>Used Regression models, such as the Washburn model, Kernel Ridge Regression, and Random Forest Regression to predict the pore size of biscuits.</li>
+<li>Trained a Random Forest Classifier with an average 96 % accuracy across biscuit types.</li>
 </ul>
 <!--more-->
 
 
 
-## Other Projects
-{: .t60 }
+<h3>Other Projects</h3>
 {% include list-posts category='projects' %}
