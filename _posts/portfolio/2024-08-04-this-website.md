@@ -1,15 +1,18 @@
 ---
 layout: page
 sidebar: right
-subheadline: Templates
-title:  "Page/Post Right Sidebar"
+subheadline: Web development
+title:  "This Website"
 permalink: /portfolio/this-website/
-teaser: "This is an example of page/post with a sidebar on the right."
+teaser: "This website is an ongoing project, developing my abities in HTML and CSS."
 breadcrumb: true
 tags:
-    - post format
+    - HTML
+    - CSS
+    - Jekyll
+    - Markdown
 categories:
-    - design
+    - projects
 image:
     thumb: gallery-example-2-thumb.jpg
     title: gallery-example-2.jpg

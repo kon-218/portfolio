@@ -4,7 +4,7 @@
 	
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Page/Post Right Sidebar</title>
+<title>Atmospec Visualization Module</title>
 
 <!-- Add Font Awesome -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -29,7 +29,7 @@
 </noscript>
 
 <!-- Search Engine Optimization -->
-<meta name="description" content="This is an example of page/post with a sidebar on the right.">
+<meta name="description" content="An interactive data visualization module">
 <meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 <meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 
@@ -38,8 +38,8 @@
 <link rel="canonical" href="http://localhost:4000/portfolio/atmospec-data-visualization-module/">
 
 <!-- Facebook Open Graph -->
-<meta property="og:title" content="Page/Post Right Sidebar">
-<meta property="og:description" content="This is an example of page/post with a sidebar on the right.">
+<meta property="og:title" content="Atmospec Visualization Module">
+<meta property="og:description" content="An interactive data visualization module">
 <meta property="og:url" content="http://localhost:4000/portfolio/atmospec-data-visualization-module/">
 <meta property="og:locale" content="en_EN">
 <meta property="og:type" content="website">
@@ -52,8 +52,8 @@
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="phlow">
 <meta name="twitter:creator" content="phlow">
-<meta name="twitter:title" content="Page/Post Right Sidebar">
-<meta name="twitter:description" content="This is an example of page/post with a sidebar on the right.">
+<meta name="twitter:title" content="Atmospec Visualization Module">
+<meta name="twitter:description" content="An interactive data visualization module">
 <meta name="twitter:image" content="https://phlow.github.io/feeling-responsive/images/gallery-example-2.jpg">
 
 
@@ -583,7 +583,7 @@
     
   
     
-        <a class="current">Page/Post Right Sidebar</a>
+        <a class="current">Atmospec Visualization Module</a>
     
   
 </nav>
@@ -597,7 +597,7 @@
 			<header>
 				
 				<figure>
-					<img src="https://phlow.github.io/feeling-responsive/images/gallery-example-2.jpg" width="970" alt="Page/Post Right Sidebar" itemprop="image">
+					<img src="https://phlow.github.io/feeling-responsive/images/gallery-example-2.jpg" width="970" alt="Atmospec Visualization Module" itemprop="image">
 
 					
 					<figcaption class="text-right">
@@ -608,59 +608,108 @@
 				
 
 				<div itemprop="name">
-					<p class="subheadline">Templates</p>
-					<h1>Page/Post Right Sidebar</h1>
+					<p class="subheadline">Data Visualization</p>
+					<h1>Atmospec Visualization Module</h1>
 				</div>
 			</header>
 
 
 			
 			<p class="teaser" itemprop="description">
-				This is an example of page/post with a sidebar on the right.
+				An interactive data visualization module
 			</p>
 			
 
 			<div itemprop="articleSection">
-			<p><em>Feeling Responsive</em> shows metadata by default. The default behaviour can be changed via <code class="language-plaintext highlighter-rouge">config.yml</code>. To show metadata at the end of a page/post just add the following to front matter:
-<!--more--></p>
+			<h3>Project Objectives</h3>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>show_meta: true
-</code></pre></div></div>
+<p>The primary aim of this project was to design and integrate a module for the visualization of photolysis rate data, obtained through the AtmoSpec application. This module would allow the user to dynamically visualize additional results from their Quantum Chemistry calculations. The Atmospec application was distributed using a docker container, and presented as a jupyter web application. The module was directly integrated into the results page.</p>
 
-<p>If you don’t want to show metadata, it’s simple again:</p>
+<h3>Background</h3>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>show_meta: false
-</code></pre></div></div>
+<h5>Atmospec:</h5>
+<p>Atmospec is an application developed for atmospheric researchers as a tool for the calculation of photo absorption cross-sections. It provides a simplified, automated workflow;  with an integrated database, a graphical user interface, and the capability to run quantum mechanical calculations. This allows academics with limited computational chemistry knowledge to leverage the most recent advances in the field, with little barrier for entry. While Atmospec showed a calculated photoabsorption cross-section, it gave no information about the photolysis rate, although the data was readily available.</p>
 
-<h2 class="t60" id="other-post-formats">Other Post Formats</h2>
+<p>For more information on AtmoSpec, check out this blog post!</p>
+
+<h5>Photolysis rate:</h5>
+
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <math xmlns="http://www.w3.org/1998/Math/MathML" style="font-size: 1.5em;">
+
+    <mrow>
+      <mi>J</mi>
+      <mo>=</mo>
+      <msubsup>
+        <mo style="font-size: 1.5em;">∫</mo>
+        <mrow>
+          <mi>λ</mi>
+          <mo>min</mo>
+        </mrow>
+        <mrow>
+          <mi>λ</mi>
+          <mo>max</mo>
+        </mrow>
+      </msubsup>
+      <mrow>
+        <mi>F</mi>
+        <mo>(</mo>
+        <mi>λ</mi>
+        <mo>)</mo>
+        <mo>&#8290;</mo> <!-- Invisible times -->
+        <mi>σ</mi>
+        <mo>(</mo>
+        <mi>λ</mi>
+        <mo>)</mo>
+        <mo>&#8290;</mo> <!-- Invisible times -->
+        <mi>Φ</mi>
+        <mo>(</mo>
+        <mi>λ</mi>
+        <mo>)</mo>
+        <mo>&#8290;</mo> <!-- Invisible times -->
+        <mi>d</mi>
+        <mi>λ</mi>
+      </mrow>
+    </mrow>
+    
+  </math>
+</div>
+
+<p>The photolysis rate is an extremely important quantity for atmospheric chemists, as it can help scientists understand and predict the photochemical reactivities and lifetimes of Volatile Organic Compounds (VOCs). The investigation of such properties informs chemical models, such as the Master Chemical Mechanicsm, allowing us to better predict and model the atmospheric composition. The equation above illustrates the calculation of photolysis rate. It is an integral over the product of F (Actinic lux), σ (Photoabsorption cross-section), and Φ (Quantum yield). This can be thought of as the number of photons available at a certain wavelength, multiplied by the likelihood that the molecule absorbs at that wavelength, adjusted for the quantum efficiency of the process.</p>
+
+<p>Since AtmoSpec produced the absorption cross section, our task was to compile the necessary actinic flux and quantum yield data, calculate the photolysis rate, and present this as an integrated module within the AtmoSpec application.</p>
+
+<h3>Results</h3>
+
+<p>Collaborated with a team of four to design and integrate the photolysis rate visualization module into the AtmoSpec application. Key results include:</p>
+
+<ul>
+<li>Liased with application users to understand the widget requirements</li>
+<li>Developed an interactive data visualization module for a web based jupyter application using Bokeh, iPyWidgets, and numpy</li>
+<li>Responsible for the integration of the calculation module, using a Linux environment and Docker.</li>
+</ul>
+
+<h3 class="t60">Other Projects</h3>
 
 <ul class="side-nav">
 
   
 
     
-      <li><a href="http://localhost:4000/portfolio/this-website/">Templates &middot; <strong>Page/Post Right Sidebar</strong></a></li>
+      <li><a href="http://localhost:4000/portfolio/this-website/">Web development &middot; <strong>This Website</strong></a></li>
     
-      <li><a href="http://localhost:4000/portfolio/rep-sampling-for-nea/">Templates &middot; <strong>Page/Post Right Sidebar</strong></a></li>
+      <li><a href="http://localhost:4000/portfolio/rep-sampling-for-nea/">Data Science &middot; <strong>Representative Samping for the Nuclear Ensemble Approach</strong></a></li>
     
-      <li><a href="http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/">Templates &middot; <strong>Page/Post Right Sidebar</strong></a></li>
+      <li><a href="http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/">Cloud paradigms &middot; <strong>Improving scalability using cloud paradigms</strong></a></li>
     
-      <li><a href="http://localhost:4000/portfolio/biscuit-dunking-analysis/">Templates &middot; <strong>Page/Post Right Sidebar</strong></a></li>
+      <li><a href="http://localhost:4000/portfolio/biscuit-dunking-analysis/">Data Science &middot; <strong>Biscuit Dunking Data Analysis</strong></a></li>
     
-      <li><a href="http://localhost:4000/portfolio/atmospec-data-visualization-module/">Templates &middot; <strong>Page/Post Right Sidebar</strong></a></li>
+      <li><a href="http://localhost:4000/portfolio/atmospec-data-visualization-module/">Data Visualization &middot; <strong>Atmospec Visualization Module</strong></a></li>
     
       <li><a href="http://localhost:4000/portfolio/accelerating-python-code/">Increasing Efficiency &middot; <strong>Accelerating Python code</strong></a></li>
     
-      <li><a href="http://localhost:4000/design/gallery/">Templates &middot; <strong>Responsive Galleries with Foundation</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/video/">Templates &middot; <strong>Video Template</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/post-right-sidebar/">Templates &middot; <strong>Page/Post Right Sidebar</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/page/">Templates &middot; <strong>The Post/Page Template</strong></a></li>
-    
-      <li><a href="http://localhost:4000/design/post-left-sidebar/">Templates &middot; <strong>Page/Post With Left Sidebar</strong></a></li>
-    
+      <li class="text-right"><a href="http://localhost:4000/blog/archive/"><strong>More ›</strong></a></li>
+
 
   
 </ul>
@@ -680,9 +729,9 @@
 				<time class="icon-calendar pr20" datetime="2024-08-04T00:00:00+00:00" itemprop="datePublished"> 2024-08-04</time>
 				
 
-				<span class="icon-archive pr20"> DESIGN</span>
+				<span class="icon-archive pr20"> PROJECTS</span>
 				<br />
-				<span class="pr20"><span class="icon-price-tag pr10"> post format</span> </span>
+				<span class="pr20"><span class="icon-price-tag pr10"> Atmospec</span> <span class="icon-price-tag pr10"> iPyWidgets</span> <span class="icon-price-tag pr10"> Data Visualization</span> <span class="icon-price-tag pr10"> Docker</span> <span class="icon-price-tag pr10"> Git</span> <span class="icon-price-tag pr10"> Python</span> </span>
 			</p>
 
 			
@@ -692,7 +741,7 @@
 				
 				<div class="medium-2 columns text-center"><a class="button small radius expand" href="http://localhost:4000/blog/archive/" title="Blog Archive">Archive</a></div><!-- /.small-4.columns -->
 				
-				<div class="medium-5 columns text-right"><a class="button small radius next" href="http://localhost:4000/portfolio/biscuit-dunking-analysis/">Page/Post Right Sidebar &raquo;</a></div><!-- /.small-4.columns -->
+				<div class="medium-5 columns text-right"><a class="button small radius next" href="http://localhost:4000/portfolio/biscuit-dunking-analysis/">Biscuit Dunking Data Analysis &raquo;</a></div><!-- /.small-4.columns -->
 				
 			</div>
 			

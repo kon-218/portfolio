@@ -6,7 +6,9 @@ title:  "Accelerating Python code"
 teaser: "Exploring tools such as OpenMP, MPI and C++, as well as Python modules Cython and Numba to increase the efficiency of the computationally intensive Lebwhol-Lasher fluid model coded in Python"
 breadcrumb: true
 tags:
-    - post format
+    - Python
+    - C++
+    - Efficiency
 categories:
     - projects
 image:

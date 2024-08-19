@@ -1,14 +1,19 @@
 ---
 layout: page
 sidebar: right
-subheadline: Templates
-title:  "Page/Post Right Sidebar"
-teaser: "This is an example of page/post with a sidebar on the right."
+subheadline: Data Visualization
+title:  "Atmospec Visualization Module"
+teaser: "An interactive data visualization module"
 breadcrumb: true
 tags:
-    - post format
+    - Atmospec
+    - iPyWidgets
+    - Data Visualization
+    - Docker 
+    - Git
+    - Python
 categories:
-    - design
+    - projects
 image:
     thumb: gallery-example-2-thumb.jpg
     title: gallery-example-2.jpg
@@ -17,20 +22,76 @@ image:
 permalink: /portfolio/atmospec-data-visualization-module/
 header: no
 ---
-*Feeling Responsive* shows metadata by default. The default behaviour can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
-<!--more-->
 
-~~~
-show_meta: true
-~~~
+<h3>Project Objectives</h3>
 
-If you don't want to show metadata, it's simple again:
+The primary aim of this project was to design and integrate a module for the visualization of photolysis rate data, obtained through the AtmoSpec application. This module would allow the user to dynamically visualize additional results from their Quantum Chemistry calculations. The Atmospec application was distributed using a docker container, and presented as a jupyter web application. The module was directly integrated into the results page.
 
-~~~
-show_meta: false
-~~~
+<h3>Background</h3>
+
+<h5>Atmospec:</h5>
+Atmospec is an application developed for atmospheric researchers as a tool for the calculation of photo absorption cross-sections. It provides a simplified, automated workflow;  with an integrated database, a graphical user interface, and the capability to run quantum mechanical calculations. This allows academics with limited computational chemistry knowledge to leverage the most recent advances in the field, with little barrier for entry. While Atmospec showed a calculated photoabsorption cross-section, it gave no information about the photolysis rate, although the data was readily available.
+
+For more information on AtmoSpec, check out this blog post!
+
+<h5>Photolysis rate:</h5>
+
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <math xmlns="http://www.w3.org/1998/Math/MathML" style="font-size: 1.5em;">
+
+    <mrow>
+      <mi>J</mi>
+      <mo>=</mo>
+      <msubsup>
+        <mo style="font-size: 1.5em;">∫</mo>
+        <mrow>
+          <mi>λ</mi>
+          <mo>min</mo>
+        </mrow>
+        <mrow>
+          <mi>λ</mi>
+          <mo>max</mo>
+        </mrow>
+      </msubsup>
+      <mrow>
+        <mi>F</mi>
+        <mo>(</mo>
+        <mi>λ</mi>
+        <mo>)</mo>
+        <mo>&#8290;</mo> <!-- Invisible times -->
+        <mi>σ</mi>
+        <mo>(</mo>
+        <mi>λ</mi>
+        <mo>)</mo>
+        <mo>&#8290;</mo> <!-- Invisible times -->
+        <mi>Φ</mi>
+        <mo>(</mo>
+        <mi>λ</mi>
+        <mo>)</mo>
+        <mo>&#8290;</mo> <!-- Invisible times -->
+        <mi>d</mi>
+        <mi>λ</mi>
+      </mrow>
+    </mrow>
+    
+  </math>
+</div>
+
+The photolysis rate is an extremely important quantity for atmospheric chemists, as it can help scientists understand and predict the photochemical reactivities and lifetimes of Volatile Organic Compounds (VOCs). The investigation of such properties informs chemical models, such as the Master Chemical Mechanicsm, allowing us to better predict and model the atmospheric composition. The equation above illustrates the calculation of photolysis rate. It is an integral over the product of F (Actinic lux), σ (Photoabsorption cross-section), and Φ (Quantum yield). This can be thought of as the number of photons available at a certain wavelength, multiplied by the likelihood that the molecule absorbs at that wavelength, adjusted for the quantum efficiency of the process.
+
+Since AtmoSpec produced the absorption cross section, our task was to compile the necessary actinic flux and quantum yield data, calculate the photolysis rate, and present this as an integrated module within the AtmoSpec application.
+
+<h3>Results</h3>
+
+Collaborated with a team of four to design and integrate the photolysis rate visualization module into the AtmoSpec application. Key results include:
+
+<ul>
+<li>Liased with application users to understand the widget requirements</li>
+<li>Developed an interactive data visualization module for a web based jupyter application using Bokeh, iPyWidgets, and numpy</li>
+<li>Responsible for the integration of the calculation module, using a Linux environment and Docker.</li>
+</ul>
 
 
-## Other Post Formats
+<h3>Other Projects</h3>
 {: .t60 }
-{% include list-posts tag='post format' %}
+{% include list-posts category='projects' %}

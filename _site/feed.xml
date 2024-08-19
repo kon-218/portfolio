@@ -262,7 +262,7 @@
 			</item>
 		
 			<item>
-				<title>Page/Post Right Sidebar</title>
+				<title>This Website</title>
 				<link>http://localhost:4000/portfolio/this-website/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
 				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
@@ -283,18 +283,6 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
@@ -314,19 +302,39 @@
 			</item>
 		
 			<item>
-				<title>Page/Post Right Sidebar</title>
+				<title>Representative Samping for the Nuclear Ensemble Approach</title>
 				<link>http://localhost:4000/portfolio/rep-sampling-for-nea/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
-&lt;!--more--&gt;&lt;/p&gt;
+				<description>&lt;p&gt;Masters thesis project at the University of Bristol &lt;a href=&quot;https://in-silico-photochem.com/&quot;&gt;InSilicoPhotochemistry&lt;/a&gt; group&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3&gt;Project Objectives&lt;/h3&gt;
 
-&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+&lt;p&gt;The primary aim of this thesis was to implement optimal sampling of a representative nuclear ensemble using simulated annealing within the Atmospec workchain. This approach seeks to provide a fast and efficient method for exploring the photoabsorption cross-sections of gas-phase Volative Organic Compounds.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3&gt;Background&lt;/h3&gt;
+
+&lt;h5&gt;Photoabsorption Cross-Sections:&lt;/h5&gt;
+&lt;p&gt;Photoabsorption cross-sections are fundamental parameters that quantify the likelihood of a photon being absorbed by a molecule. They play a crucial role in atmospheric chemistry and photochemistry. They help us understand how volatile organic compounds (VOCs) interact with light, which is essential for modeling atmospheric processes, predicting the behavior of pollutants, and assessing their impact on climate and air quality.&lt;/p&gt;
+
+&lt;h5&gt;Challenges in Calculation:&lt;/h5&gt;
+&lt;p&gt;The traditional methods for calculating photoabsorption cross-sections often rely on quantum mechanical approaches, which can be computationally intensive. These methods typically require the evaluation of a large number of nuclear geometries to capture the full range of molecular conformations that contribute to the absorption spectrum. As the complexity of the molecule increases, the number of required calculations can grow exponentially, making it computationally prohibitive to obtain accurate results for larger or more complex VOCs.&lt;/p&gt;
+
+&lt;p&gt;The Nuclear Ensemble Approach is a powerful technique that allows for the consideration of multiple nuclear configurations simultaneously. By averaging over a large ensemble of molecular geometries, this method can provide a more accurate representation of the system’s behavior. However, the requirement for thousands of nuclear geometries poses significant challenges in terms of computational resources and time, particularly for complex molecules.&lt;/p&gt;
+
+&lt;h5&gt;Representative Sampling&lt;/h5&gt;
+
+&lt;p&gt;Representative sampling aims to reduce the number of nuclear geometries needed in an ensemble to reduce the computational burden of photoabsorption cross-section calculations. It runs an initial exploratory calculation using a large ensemble (&amp;gt; 1000), then iteratively reduces the ensemble size using Simulated Annealing and Kullbeck-Leibler divergence algorithms. The overall aim is the minimize the number of geometries while retaining the most information within the ensemble as possible.&lt;/p&gt;
+
+&lt;h3&gt;Results&lt;/h3&gt;
+
+&lt;p&gt;Representative sampling method within the Nuclear Ensemble Approach was successfully implemented.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Significantly reduced computational burden associated with photoabsorption cross-section calculation. This allows for the efficient exploration of larger and more complex molecules.&lt;/li&gt;
+&lt;li&gt;Spectra calculated using reduced ensemble effectively capture the essential features of the photoabsorption cross-sections.&lt;/li&gt;
+&lt;li&gt;Demonstrated robustness across multiple Volatile Organic Compounds.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--more--&gt;
 
 &lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
 
@@ -335,28 +343,20 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
 
   
 &lt;/ul&gt;
@@ -366,49 +366,52 @@
 			</item>
 		
 			<item>
-				<title>Page/Post Right Sidebar</title>
+				<title>Improving scalability using cloud paradigms</title>
 				<link>http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
-&lt;!--more--&gt;&lt;/p&gt;
+				<description>&lt;h3&gt;Project Objectives&lt;/h3&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The primary objectives of this ATLAS open database processing project are to develop a multiservice application for the distributed processing of ATLAS open data, enhancing the efficiency of data analysis. Secondly, to integrate cloud computing technologies to improve scalability and resource management in processing large volumes of data. Overall, this project aims to demonstrate the benefits of cloud-oriented design in scientific computing as a method for improving future workflows in research.&lt;/p&gt;
 
-&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+&lt;h3&gt;Background&lt;/h3&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h5&gt;ATLAS Large Hadron Collider:&lt;/h5&gt;
+&lt;p&gt;The ATLAS experiment, part of the Large Hadron Collider (LHC), aims to explore fundamental questions in particle physics by analyzing high-energy particle collisions. With billions of collisions occurring per second, the data generated is immense, necessitating advanced data processing techniques to identify interactions of interest. The ATLAS collaboration has recognized the need for innovative solutions to manage this data effectively, leading to the exploration of cloud computing as a viable option.&lt;/p&gt;
 
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+&lt;h5&gt;Cloud computing:&lt;/h5&gt;
+&lt;p&gt;The integration of commercial cloud computing resources has emerged as a promising approach, providing flexibility and scalability beyond traditional computing grids. In 2011, the ATLAS experiment initiated a cloud computing research and development project to investigate how cloud paradigms could enhance its existing distributed computing model. This project aims to adapt a sample processing script to utilize cloud technologies, demonstrating the advantages of a cloud-oriented design for future workflows.&lt;/p&gt;
+
+&lt;h3&gt;Results&lt;/h3&gt;
+
+&lt;p&gt;The implementation consists of a multiservice application for the analysis of Higgs boson decay pathways. Key results include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Facilitized containerization of processing script, ensuring consistent deployment across different environments, as well as improved maintainability.&lt;/li&gt;
+&lt;li&gt;Increased scalability using a service based architechture that can be adapted based on demand. Demonstrated scalability locally using docker swarm.&lt;/li&gt;
+&lt;li&gt;Streamlined communication between services using RabbitMQ, eliminating race conditions and reducing storage requirements.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-projects&quot;&gt;Other Projects&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
 
   
 &lt;/ul&gt;
@@ -418,49 +421,56 @@
 			</item>
 		
 			<item>
-				<title>Page/Post Right Sidebar</title>
+				<title>Biscuit Dunking Data Analysis</title>
 				<link>http://localhost:4000/portfolio/biscuit-dunking-analysis/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
-&lt;!--more--&gt;&lt;/p&gt;
+				<description>&lt;p&gt;Biscuit dunking is an essential aspect of British culture, whether you’re dunking chocolate coated biscuits, oat, or digestives, everyone is guilty of the occasional dunk. This can lead even to the point of rivalry, betweeen the one second dunkers and the die hard, wait as long as you can without the biscuit crumbling camp. An investigation into McVities biscuit dunking data has been conducted to clear the air on the difference between three types of biscuits: Digestives, Hobnobs, and Rich Tea.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3&gt;Project Objectives&lt;/h3&gt;
 
-&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+&lt;p&gt;This investigation aimed to explore the physical differences between biscuits through empirical data collected from dunking experiments. It analyzed the applicability of capillary flow action to biscuits, examining the relationship between the pore radius and capillary flow rate during dunking. This translated into insights on how tea travels up the different types of biscuit. Machine Learning methods were investigated for the classication of biscuit type, as well as for modelling the pore radius of the biscuits.&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h3&gt;Background&lt;/h3&gt;
 
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+&lt;h5&gt;Biscuit dunking data:&lt;/h5&gt;
+&lt;p&gt;Three seperate databases were provided, the dunking data,&lt;/p&gt;
+
+&lt;h5&gt;Washburn Equation:&lt;/h5&gt;
+
+&lt;p&gt;The Washburn equation is a fundemental model of capillary flow action, its performance for the modelling of capillary flow action was analysed using the microscopy data, it was found to predict accurately for these data points, therefore was used as a starting point for predicting the pore radii of the remaining biscuit data.&lt;/p&gt;
+
+&lt;h5&gt;Machine Learning approach:&lt;/h5&gt;
+
+&lt;p&gt;Biscuit classification attempted with and without the pore radius, finding greatly improved classification with the pore radius included.&lt;/p&gt;
+
+&lt;h3&gt;Results&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!--more--&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-projects&quot;&gt;Other Projects&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
 
   
 &lt;/ul&gt;
@@ -470,49 +480,98 @@
 			</item>
 		
 			<item>
-				<title>Page/Post Right Sidebar</title>
+				<title>Atmospec Visualization Module</title>
 				<link>http://localhost:4000/portfolio/atmospec-data-visualization-module/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
-&lt;!--more--&gt;&lt;/p&gt;
+				<description>&lt;h3&gt;Project Objectives&lt;/h3&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The primary aim of this project was to design and integrate a module for the visualization of photolysis rate data, obtained through the AtmoSpec application. This module would allow the user to dynamically visualize additional results from their Quantum Chemistry calculations. The Atmospec application was distributed using a docker container, and presented as a jupyter web application. The module was directly integrated into the results page.&lt;/p&gt;
 
-&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+&lt;h3&gt;Background&lt;/h3&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;h5&gt;Atmospec:&lt;/h5&gt;
+&lt;p&gt;Atmospec is an application developed for atmospheric researchers as a tool for the calculation of photo absorption cross-sections. It provides a simplified, automated workflow;  with an integrated database, a graphical user interface, and the capability to run quantum mechanical calculations. This allows academics with limited computational chemistry knowledge to leverage the most recent advances in the field, with little barrier for entry. While Atmospec showed a calculated photoabsorption cross-section, it gave no information about the photolysis rate, although the data was readily available.&lt;/p&gt;
 
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+&lt;p&gt;For more information on AtmoSpec, check out this blog post!&lt;/p&gt;
+
+&lt;h5&gt;Photolysis rate:&lt;/h5&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center; margin: 20px 0;&quot;&gt;
+  &lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; style=&quot;font-size: 1.5em;&quot;&gt;
+
+    &lt;mrow&gt;
+      &lt;mi&gt;J&lt;/mi&gt;
+      &lt;mo&gt;=&lt;/mo&gt;
+      &lt;msubsup&gt;
+        &lt;mo style=&quot;font-size: 1.5em;&quot;&gt;∫&lt;/mo&gt;
+        &lt;mrow&gt;
+          &lt;mi&gt;λ&lt;/mi&gt;
+          &lt;mo&gt;min&lt;/mo&gt;
+        &lt;/mrow&gt;
+        &lt;mrow&gt;
+          &lt;mi&gt;λ&lt;/mi&gt;
+          &lt;mo&gt;max&lt;/mo&gt;
+        &lt;/mrow&gt;
+      &lt;/msubsup&gt;
+      &lt;mrow&gt;
+        &lt;mi&gt;F&lt;/mi&gt;
+        &lt;mo&gt;(&lt;/mo&gt;
+        &lt;mi&gt;λ&lt;/mi&gt;
+        &lt;mo&gt;)&lt;/mo&gt;
+        &lt;mo&gt;&amp;#8290;&lt;/mo&gt; &lt;!-- Invisible times --&gt;
+        &lt;mi&gt;σ&lt;/mi&gt;
+        &lt;mo&gt;(&lt;/mo&gt;
+        &lt;mi&gt;λ&lt;/mi&gt;
+        &lt;mo&gt;)&lt;/mo&gt;
+        &lt;mo&gt;&amp;#8290;&lt;/mo&gt; &lt;!-- Invisible times --&gt;
+        &lt;mi&gt;Φ&lt;/mi&gt;
+        &lt;mo&gt;(&lt;/mo&gt;
+        &lt;mi&gt;λ&lt;/mi&gt;
+        &lt;mo&gt;)&lt;/mo&gt;
+        &lt;mo&gt;&amp;#8290;&lt;/mo&gt; &lt;!-- Invisible times --&gt;
+        &lt;mi&gt;d&lt;/mi&gt;
+        &lt;mi&gt;λ&lt;/mi&gt;
+      &lt;/mrow&gt;
+    &lt;/mrow&gt;
+    
+  &lt;/math&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The photolysis rate is an extremely important quantity for atmospheric chemists, as it can help scientists understand and predict the photochemical reactivities and lifetimes of Volatile Organic Compounds (VOCs). The investigation of such properties informs chemical models, such as the Master Chemical Mechanicsm, allowing us to better predict and model the atmospheric composition. The equation above illustrates the calculation of photolysis rate. It is an integral over the product of F (Actinic lux), σ (Photoabsorption cross-section), and Φ (Quantum yield). This can be thought of as the number of photons available at a certain wavelength, multiplied by the likelihood that the molecule absorbs at that wavelength, adjusted for the quantum efficiency of the process.&lt;/p&gt;
+
+&lt;p&gt;Since AtmoSpec produced the absorption cross section, our task was to compile the necessary actinic flux and quantum yield data, calculate the photolysis rate, and present this as an integrated module within the AtmoSpec application.&lt;/p&gt;
+
+&lt;h3&gt;Results&lt;/h3&gt;
+
+&lt;p&gt;Collaborated with a team of four to design and integrate the photolysis rate visualization module into the AtmoSpec application. Key results include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Liased with application users to understand the widget requirements&lt;/li&gt;
+&lt;li&gt;Developed an interactive data visualization module for a web based jupyter application using Bokeh, iPyWidgets, and numpy&lt;/li&gt;
+&lt;li&gt;Responsible for the integration of the calculation module, using a Linux environment and Docker.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 class=&quot;t60&quot;&gt;Other Projects&lt;/h3&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
 
   
 &lt;/ul&gt;
@@ -542,18 +601,6 @@
 
   
 
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
