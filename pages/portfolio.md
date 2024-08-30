@@ -9,6 +9,17 @@ header:
 permalink: /portfolio/
 ---
 <style>
+    .project img {
+        width: 100%; /* Adjusts to the width of the container */
+        height: 200px; /* Set a fixed height, adjust this as needed */
+        object-fit: ; /* Ensures the image covers the area while maintaining aspect ratio */
+    }
+
+    /* Target the last image specifically */
+    .project:last-of-type img {
+        object-fit: cover; /* Applies 'cover' only to the last image */
+    }
+    
     .project {
         display: flex;
         flex-direction: column;
@@ -16,13 +27,13 @@ permalink: /portfolio/
     }
 
     .project h6 {
-        min-height: 2em; /* Adjust this value to reduce whitespace */
-        margin-bottom: 0.5em; /* Reduce margin for tighter spacing */
+        min-height: 2em;
+        margin-bottom: 0.5em;
     }
 
     .project-skills {
         font-weight: bold;
-        margin-bottom: 0.5em; /* Reduce margin for tighter spacing */
+        margin-bottom: 0.5em;
     }
 
     .project-content {
@@ -32,13 +43,13 @@ permalink: /portfolio/
     }
 
     .project-content ul {
-        margin-top: auto; /* Align the list to the bottom of the container */
+        margin-top: auto;
     }
 </style>
 
 Welcome to my project portfolio, here you'll find a selection of my work, showcasing the diverse range of projects I've undertaken. From innovative software solutions and creative design projects to complex problem-solving tasks and collaborative endeavors, this portfolio reflects my journey and growth as a Data Scientist and my improvements in Software Engineering.
 
-Each project included here is a testament to my skills, dedication, and passion for data analysis, problem solving and efficient computing. Feel free to explore the various projects by clicking the image above for the code, or alternatively the title to see a deeper explanation. If you have any questions or would like to discuss potential collaborations, don't hesitate to reach out!
+Feel free to explore the various projects by clicking the image above for the code, or alternatively the title to see a deeper explanation. If you have any questions or would like to discuss potential collaborations, don't hesitate to reach out!
 
 <div class="row">
     <div class="medium-4 columns t30 project">
@@ -104,7 +115,7 @@ Each project included here is a testament to my skills, dedication, and passion 
 
     <div class="medium-4 columns t30 project">
         <a href="https://github.com/your-repo/example5">
-            <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
+            <img src="{{ site.urlimg }}website.png" alt="">
         </a>
         <div class="project-content">
             <h6>This Website!</h6>
@@ -119,14 +130,15 @@ Each project included here is a testament to my skills, dedication, and passion 
 
     <div class="medium-4 columns t30 project">
         <a href="https://github.com/your-repo/example6">
-            <img src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
+            <img src="{{ site.urlimg }}cpython.png" alt="">
         </a>
         <div class="project-content">
             <h6>Accelerating Python Code</h6>
-            <span class="project-skills">Python | MPI | C++ | Cython</span>
+            <span class="project-skills">Python | MPI | C++ | Cython | Numba</span>
             <ul>
                 <li>Identifying and analysing code bottlenecks</li>
                 <li>Reducing computational intensity using a combination of Cython, MPI and C++</li>
+                <li>Comparative analysis of methods attempted</li>
             </ul>
         </div>
     </div><!-- /.medium-4.columns -->

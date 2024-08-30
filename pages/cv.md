@@ -25,9 +25,9 @@ permalink: /cv/
                 <p>Relevant modules: Data Science, Software Engineering and High-Powered Computing, AI and Deep Learning, Scientific Computing, Math, Practical Chemistry, Core Chemistry, Models and Predictions</p>
                 <p>Thesis project - <em>The Efficient Calculation of Absorption cross-sections for Volatile Organic Compounds</em></p>
                 <ul>
-                    <li>Implemented Machine Learning to improve sampling method of the Nuclear Ensemble Approach for excited state energy calculations, thereby increasing the efficiency of calculations</li>
-                    <li>Applied computational methods for exploratory and fine-grained sampling of probability density functions</li>
-                    <li>Utilized Quantum mechanics methods for the calculation of excited state molecules</li>
+                    <li>Implemented a Simulated Annealing algorithm within the Nuclear Ensemble Approach to optimize sampling for photoabsorption cross-sections, significantly reducing computational intensity in the Atmospec workflow.</li>
+                    <li>Applied advanced Quantum Chemistry methods to calculate excited state properties of volatile organic compounds, enabling accurate modeling of their photochemical behaviors.</li>
+                    <li>Validated and presented results to an audience of 50 students and professors, demonstrating the method's effectiveness in capturing essential spectral features while maintaining computational efficiency.</li>
                 </ul>
             </div>
         </div>
@@ -36,36 +36,37 @@ permalink: /cv/
             <h2>Technical Proficiencies</h2>
             <ul>
                 <li>Programming Languages: Python | SQL | C++</li>
-                <li>Frameworks and Tools: Git | Linux (Ubuntu) | Bash | Unix | MS | Latex</li>
+                <li>Frameworks and Tools: Git | Linux (Ubuntu) | Bash | Unix | MS | Latex | Docker </li>
             </ul>
         </div>
 
         <div class="cv-section">
             <h2>Project Experience</h2>
             <div class="cv-item">
+                <h3>Biscuit dunking data analysis</h3>
+                <p>Feb 2024 - Apr 2024</p>
+                <ul>
+                    <li>Conducted exploratory data analysis (EDA) to clean and interpret biscuit dunking experiment data, providing actionable insights on capillary action in various biscuit types.</li>
+                    <li>Applied advanced regression models, including the Washburn model and Random Forest Regression, to accurately predict biscuit pore size, enhancing understanding of liquid absorption rates.</li>
+                    <li>Developed and fine-tuned a Random Forest Classifier, achieving an average 96% accuracy in classifying biscuit types, with perfect accuracy for Digestives.</li>
+                </ul>
+            </div>
+            <div class="cv-item">
+                <h3>Distributed data processing</h3>
+                <p>Oct 2023 – Dec 2023</p>
+                <ul>
+                    <li>Developed a multiservice application for distributed processing of ATLAS open data, enhancing the efficiency of analyzing Higgs boson decay pathways.</li>
+                    <li>Leveraged Docker Swarm for containerization, ensuring consistent deployment across environments and improved scalability of data processing scripts.</li>
+                    <li>Optimized inter-service communication with RabbitMQ, eliminating race conditions and reducing storage requirements, while demonstrating scalability using a service-based architecture.</li>
+                </ul>
+            </div>
+            <div class="cv-item">
                 <h3>Atmospec Visualization Module (iPyWidgets, Bokeh, Numpy)</h3>
                 <p>Jan 2023 - May 2023</p>
                 <ul>
-                    <li>Developed a module for the calculation and visualization of photolysis rate constant coefficients using absorption cross sections</li>
-                    <li>Integrated module with dynamic plotting using Bokeh into Jupyter iPyWidgets app interface</li>
-                    <li>Worked in a team of 5 people, organizing regular meetings and presentations</li>
-                </ul>
-            </div>
-            <div class="cv-item">
-                <h3>Predicting Emissions Data (Scikit-learn, Numpy, Pandas, Matplotlib)</h3>
-                <p>Nov 2022 - Dec 2022</p>
-                <ul>
-                    <li>Processed raw emissions data and performed EDA, identifying 3 classes of emitters</li>
-                    <li>Comparatively analyzed the application of Boosting vs. Bagging algorithms for the prediction of unseen data using scikit-learn, tuning algorithms to get an accuracy of 84%</li>
-                </ul>
-            </div>
-            <div class="cv-item">
-                <h3>UKCI Cluster Challenge (Bash, SQL, C++, Python)</h3>
-                <p>Oct 2023 – Dec 2023</p>
-                <ul>
-                    <li>Collaborated with a team of 6 students to complete a set of 3 online challenges with biweekly deadlines</li>
-                    <li>Executed code on HPC cluster to perform tasks including hardware benchmarking and application of machine learning algorithms</li>
-                    <li>Created visualizations using Python Jupyter Notebooks presented for each challenge</li>
+                    <li>Designed and integrated an interactive data visualization module within the AtmoSpec application, enabling dynamic visualization of photolysis rate data for atmospheric research.</li>
+                    <li>Developed the visualization tool using Bokeh, iPyWidgets, and NumPy within a Jupyter web application, enhancing user experience and data interpretability.</li>
+                    <li>Led the integration of the photolysis rate calculation module in a Linux environment, ensuring seamless deployment via Docker for consistent performance across platforms.</li>
                 </ul>
             </div>
         </div>
@@ -77,23 +78,17 @@ permalink: /cv/
                 <p>Sept 2022 – Present</p>
                 <ul>
                     <li>Refined time management and teamwork skills, looking after up to 28 guests as a team of 3 over multiple courses, maintaining calm under pressure and anticipating guests’ needs</li>
-                    <li>Developed client relation skills by interacting with guests ensuring their expectations were exceeded</li>
+                    <li>Developed client relation skills by interacting with guests ensuring their expectations were exceeded, ensuring a memorable dining experience through attentive and personalized service.</li>
+                    <li>Demonstrated extensive knowledge of the menu and wine pairings, assisting guests in making informed choices that enhanced their dining experience.</li>
                 </ul>
             </div>
             <div class="cv-item">
-                <h3>Immunocore – Shadow R&D Scientist</h3>
-                <p>Jul 2019 – Aug 2019</p>
+                <h3>The Albion – Waiter / Bartender</h3>
+                <p>Sept 2020 – Jul 2022</p>
                 <ul>
-                    <li>Conducted comprehensive data analysis to assess the success rate of protein refolding</li>
-                    <li>Assisted in performing characteristic analysis of proteins under the guidance of experienced scientists, contributing to the identification of various genetic markers</li>
-                </ul>
-            </div>
-            <div class="cv-item">
-                <h3>A level Math and Further Math tutor</h3>
-                <p>Jun 2019 – Sept 2020</p>
-                <ul>
-                    <li>Created supplementary materials to reinforce learning, helping students prepare for assessments</li>
-                    <li>Fostered a positive and encouraging learning environment in workshop-like sessions, improving my time management and leadership skills</li>
+                    <li>Prepared and served a variety of cocktails, beers, and other beverages, maintaining consistency and adhering to established recipes</li>
+                    <li>Provided guests with drinks recommendations to suit their needs, helping them navigate the full bar as well as over 20 beers on tap. Similarly, pointing out my favorites on the food menu.</li>
+                    <li>Looked after large private partys, helping people celebrate engagements, birthdays, and christmas partys. Making sure everyone was comfortable and taken care of.</li>
                 </ul>
             </div>
         </div>
