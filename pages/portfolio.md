@@ -53,7 +53,7 @@ Feel free to explore the various projects by clicking the image above for the co
 
 <div class="row">
     <div class="medium-4 columns t30 project">
-        <a href="https://github.com/your-repo/example1">
+        <a href="/portfolio/rep-sampling-for-nea">
             <img src="{{ site.urlimg }}b.png" alt="">
         </a>
         <div class="project-content">
@@ -68,7 +68,7 @@ Feel free to explore the various projects by clicking the image above for the co
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30 project">
-        <a href="https://github.com/your-repo/example2">
+        <a href="/portfolio/biscuit-dunking-analysis">
             <img src="{{ site.urlimg }}biscuit-transformed.jpeg" alt="">
         </a>
         <div class="project-content">
@@ -83,7 +83,7 @@ Feel free to explore the various projects by clicking the image above for the co
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30 project">
-        <a href="https://github.com/your-repo/example3">
+        <a href="/portfolio/cloud-paradigm-atlas-processing">
             <img src="{{ site.urlimg }}cloudtech.jpeg" alt="">
         </a>
         <div class="project-content">
@@ -99,7 +99,7 @@ Feel free to explore the various projects by clicking the image above for the co
 
 <div class="row">
     <div class="medium-4 columns t30 project">
-        <a href="https://github.com/your-repo/example4">
+        <a href="/portfolio/atmospec-data-visualization-module">
             <img src="{{ site.urlimg }}atmospecvis.png" alt="">
         </a>
         <div class="project-content">
@@ -114,7 +114,7 @@ Feel free to explore the various projects by clicking the image above for the co
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30 project">
-        <a href="https://github.com/your-repo/example5">
+        <a href="/portfolio/this-website">
             <img src="{{ site.urlimg }}website.png" alt="">
         </a>
         <div class="project-content">
@@ -129,7 +129,7 @@ Feel free to explore the various projects by clicking the image above for the co
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30 project">
-        <a href="https://github.com/your-repo/example6">
+        <a href="/portfolio/accellerating-python-code">
             <img src="{{ site.urlimg }}cpython.png" alt="">
         </a>
         <div class="project-content">

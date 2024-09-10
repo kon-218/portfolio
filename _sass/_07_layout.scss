@@ -370,30 +370,39 @@ body.video cite { color: #fff; }
 
 .widgets-container {
     display: flex;
-    justify-content: space-between; /* Adjust spacing between widgets */
+    justify-content: space-between;
+    flex-wrap: wrap; /* Ensures responsiveness */
+    margin: 0 -15px; /* Adjusts for any padding/margin of the container */
 }
 
-.widgets-container {
-    display: flex;
-    justify-content: space-between; /* Adjust spacing between widgets */
+.widgets-container .widget {
+    flex: 1 1 100%; /* Makes each widget take up 100% of the width */
+    padding: 15px; /* Adjusts spacing around widgets */
+    box-sizing: border-box; /* Ensures padding doesn't affect width */
 }
 
 .frontpage-widget {
     display: flex;
     flex-direction: column;
-    justify-content: flex-start; /* Ensure text is top-aligned */
-    flex: 1; /* Ensure widgets take up equal space */
-    margin: 0 10px; /* Adjust margin as needed */
+    justify-content: flex-start;
+    flex: 1;
+    margin: 10px;
+    box-sizing: border-box;
+    width: calc(33.333% - 20px); /* Three widgets per row */
+    max-width: 100%;
+    min-height: 400px; /* Ensure consistent widget height */
 }
 
 .frontpage-widget .button-container {
-    margin-top: auto; /* Push the button to the bottom */
+    margin-top: auto; /* Keeps the button at the bottom */
 }
 
 .widget-image {
-    width: 300px; /* Set the desired width */
-    height: 200px; /* Set the desired height */
-    object-fit: cover; /* Ensures the image covers the area without distortion */
+    width: 300px; /* Explicit width */
+    height: 10px; /* Explicit height */
+    object-fit: cover; /* Fill the image area without distortion */
+    display: block;
+    margin: 0 auto;
 }
 
 .row {
@@ -662,3 +671,75 @@ body.video cite { color: #fff; }
 //         margin-bottom: 20px;
 //     }
 // }
+
+// Contact page
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin: 6px 0 16px 0;
+    resize: vertical;
+  }
+  
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+  
+  form label {
+    font-weight: bold;
+  }
+  
+  form input[required] {
+    border-left: 4px solid red;
+  }
+  
+  form input[required]:invalid {
+    border-color: red;
+  }
+  
+  form input:focus, form textarea:focus {
+    border-color: #04AA6D;
+    outline: none;
+  }
+
+  // Search 
+
+  .search-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  #search-input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  #search-button   
+   {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  

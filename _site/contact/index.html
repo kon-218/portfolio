@@ -94,7 +94,7 @@
 
 
 </head>
-<body id="top-of-page" class="post">
+<body id="top-of-page" class="page-fullwidth">
 	
 	
 <div id="navigation" class="sticky">
@@ -276,179 +276,6 @@
           
           
         
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/design/">Templates</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/grid/">Grid &amp; Colors</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/typography/typography/">Typography</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/page/">Page/Post</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/post-left-sidebar/">Post-Left-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/post-right-sidebar/">Post-Right-Sidebar</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/page-fullwidth/">Page Full-Width</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/blog/">Blog-Page</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/video/">Video</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/gallery/">Gallery</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/portfolio/">Portfolio</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/headers/">Header Styles</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/header-full-width-image/">Header with Full-Width-Image</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/header-image-pattern/">Header with Image and Pattern</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/header-image-color/">Header with image and color</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/header-logo-only/">Header Only With Logo</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/header-with-text/">Header With Text</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/no-header/">No Header</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/design/no-header-but-image/">No Header but Image</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/documentation/">Documentation</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/changelog/">Changelog</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/roadmap/">Roadmap</a></li>
-                    
-                  </ul>
-
-              </li>
-              <li class="divider"></li>
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/getting-started/">Getting Started</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
         
       </ul>
       
@@ -528,38 +355,6 @@
             
           
         
-
-              
-
-
-
-          
-          
-        
-
-              
-
-
-
-          
-          
-        
-
-              
-
-
-
-          
-          
-        
-
-              
-
-
-
-          
-          
-        
         
       </ul>
      
@@ -571,55 +366,55 @@
 
 	
 
-<div id="masthead-no-image-header">
-    <div class="row">
-        <div class="small-12 columns">
-            <a id="logo" href="http://localhost:4000/" title="KN - Portfolio – A portfolio">
-                <img src="http://localhost:4000/assets/img/logo.png" alt="KN - Portfolio – A portfolio">
-            </a>
-        </div><!-- /.small-12.columns -->
-    </div><!-- /.row -->
-</div><!-- /#masthead -->
 
 
 
+	
 
-	<div class="row t30">
-	<div class="medium-8 columns medium-offset-2 end">
-		<article itemscope itemtype="http://schema.org/Article">
+
+<div class="row t30">
+	<div class="medium-12 columns">
+		<article>
 			<header>
-				
-
-				<div itemprop="name">
-					<p class="subheadline">Contact Form</p>
-					<h1>Contact</h1>
-				</div>
+				<p class="subheadline">Contact Form</p>
+				<h1>Contact</h1>
 			</header>
 
-
 			
-			<p class="teaser" itemprop="description">
+			<p class="teaser">
 				Get in touch with me? Use the contact form.
 			</p>
 			
 
-			<div itemprop="articleSection">
-			<p>If you need a fabulous contact form for your website, I suggest you use the free version of <a href="http://www.wufoo.com/">Wufoo</a></p>
+			<p>The form goes directly to my email inbox.</p>
 
-			</div>
+<div class="container">
+  <form action="contact.php">
 
-			
+    <label for="fname">First Name</label>
+    <input type="text" id="fname" name="firstname" placeholder="Your name.." />
 
-			
+    <label for="lname">Last Name</label>
+    <input type="text" id="lname" name="lastname" placeholder="Your last name.." />
+
+    <label for="email">Contact Email</label>
+    <input type="text" id="email" name="email" placeholder="name@example.com" />
+
+    <label for="subject">Subject</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
+
+    <input type="submit" value="Submit" />
+
+  </form>
+</div>
+
+<p>Alternatively, some other forms of contact:</p>
+
 		</article>
-	</div><!-- /.medium-8.columns -->
-
-
-	
-
-
-	
+	</div><!-- /.medium-12.columns -->
 </div><!-- /.row -->
+
+
 
 
 	

@@ -5,7 +5,7 @@ subheadline: "Python"
 meta_teaser: "Python ...."
 teaser: "Python ... "
 header:
-    image: /images/ilovepython2.jpg
+    image: ilovepython2.jpg
     background-color: "#262930"
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/

@@ -43,8 +43,13 @@ permalink: /cv/
         <div class="cv-section">
             <h2>Project Experience</h2>
             <div class="cv-item">
-                <h3>Biscuit dunking data analysis</h3>
-                <p>Feb 2024 - Apr 2024</p>
+                <h3>
+                    Biscuit dunking data analysis (Pandas, Scikit-learn, Matplotlib)
+                    <a href="https://github.com/your-repo-url" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:24px; height:24px; margin-left:0px;">
+                    </a>
+                </h3>
+                <p>Feb 2024 - Apr 2024 (code)</p>
                 <ul>
                     <li>Conducted exploratory data analysis (EDA) to clean and interpret biscuit dunking experiment data, providing actionable insights on capillary action in various biscuit types.</li>
                     <li>Applied advanced regression models, including the Washburn model and Random Forest Regression, to accurately predict biscuit pore size, enhancing understanding of liquid absorption rates.</li>
@@ -52,7 +57,12 @@ permalink: /cv/
                 </ul>
             </div>
             <div class="cv-item">
-                <h3>Distributed data processing</h3>
+                <h3>
+                    Distributed data processing (Docker, Docker Swarm, Jupyter)
+                    <a href="https://github.com/your-repo-url" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:24px; height:24px; margin-left:0px;">
+                    </a>
+                </h3>
                 <p>Oct 2023 – Dec 2023</p>
                 <ul>
                     <li>Developed a multiservice application for distributed processing of ATLAS open data, enhancing the efficiency of analyzing Higgs boson decay pathways.</li>
@@ -61,7 +71,12 @@ permalink: /cv/
                 </ul>
             </div>
             <div class="cv-item">
-                <h3>Atmospec Visualization Module (iPyWidgets, Bokeh, Numpy)</h3>
+                <h3>
+                    Atmospec Visualization Module (iPyWidgets, Bokeh, Numpy)
+                    <a href="https://github.com/kon-218/" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:24px; height:24px; margin-left:0px;">
+                    </a>
+                </h3>
                 <p>Jan 2023 - May 2023</p>
                 <ul>
                     <li>Designed and integrated an interactive data visualization module within the AtmoSpec application, enabling dynamic visualization of photolysis rate data for atmospheric research.</li>

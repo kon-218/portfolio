@@ -10,30 +10,23 @@ header:
     caption_url: https://unsplash.com/
 permalink: /guides/
 ---
-<div class="card">
-    <div class="card-content">
-        <h2 class="card-title"> Python </h2>
-        <p class="card-body">Learn the basics of Python programming, including syntax, data types, and basic operations.</p>
-        <a href="#" class="button-guides"> Learn More </a>
-    </div>
-</div>
 
 <div class="guides-container">
-    <a href="/home/guides/python/" class="guide-item">
+    <a href="/guides/python/" class="guide-item">
         <img src="../images/python.jpg" alt="Python">
         <div class="guide-info">
             <h2>Python</h2>
             <p>Learn the basics of Python programming, including syntax, data types, and basic operations.</p>
         </div>
     </a>
-    <a href="/path-to-website-building-guide" class="guide-item">
+    <a href="/guides/web-building/" class="guide-item">
         <img src="../images/website_building.jpg" alt="Web design">
         <div class="guide-info">
             <h2>Website Building</h2>
             <p>Create responsive websites using HTML, CSS, and JavaScript. Learn best practices for design and development.</p>
         </div>
     </a>
-    <a href="/path-to-other-guide" class="guide-item">
+    <a href="/guides/other/" class="guide-item">
         <img src="../images/other.jpg" alt="Other">
         <div class="guide-info">
             <h2>Other</h2>
@@ -43,5 +36,5 @@ permalink: /guides/
 </div>
 
 <div class="toc-link">
-    <a href="/home/guides/toc" class="toc-button">View Full List of Guides</a>
+    <a href="/guides/toc" class="toc-button">View Full List of Guides</a>
 </div>
