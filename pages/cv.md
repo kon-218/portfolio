@@ -23,7 +23,14 @@ permalink: /cv/
                 <p><em>MSci Chemistry with Scientific Computing</em></p>
                 <p>Sept 2020 – Jun 2024</p>
                 <p>Relevant modules: Data Science, Software Engineering and High-Powered Computing, AI and Deep Learning, Scientific Computing, Math, Practical Chemistry, Core Chemistry, Models and Predictions</p>
-                <p>Thesis project - <em>The Efficient Calculation of Absorption cross-sections for Volatile Organic Compounds</em></p>
+                <p>Thesis project - 
+                    <em>The Efficient Calculation of photo-absorption cross-sections for Volatile Organic Compounds</em>
+                    <a href="https://github.com/kon-218/LaunchNEM" target="_blank" style="text-decoration: none;">
+                        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:24px; height:24px; margin-left:0px;">
+                    </a>
+                    <a href="/portfolio/rep-sampling-for-nea/" target="_blank">(Learn more)</a>
+                </p>
+                
                 <ul>
                     <li>Implemented a Simulated Annealing algorithm within the Nuclear Ensemble Approach to optimize sampling for photoabsorption cross-sections, significantly reducing computational intensity in the Atmospec workflow.</li>
                     <li>Applied advanced Quantum Chemistry methods to calculate excited state properties of volatile organic compounds, enabling accurate modeling of their photochemical behaviors.</li>
@@ -45,11 +52,11 @@ permalink: /cv/
             <div class="cv-item">
                 <h3>
                     Biscuit dunking data analysis (Pandas, Scikit-learn, Matplotlib)
-                    <a href="https://github.com/your-repo-url" target="_blank" style="text-decoration: none;">
+                    <a href="https://github.com/kon-218/biscuit_analysis" target="_blank" style="text-decoration: none;">
                         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:24px; height:24px; margin-left:0px;">
                     </a>
                 </h3>
-                <p>Feb 2024 - Apr 2024 (code)</p>
+                <p>Feb 2024 - Apr 2024</p>
                 <ul>
                     <li>Conducted exploratory data analysis (EDA) to clean and interpret biscuit dunking experiment data, providing actionable insights on capillary action in various biscuit types.</li>
                     <li>Applied advanced regression models, including the Washburn model and Random Forest Regression, to accurately predict biscuit pore size, enhancing understanding of liquid absorption rates.</li>
@@ -59,7 +66,7 @@ permalink: /cv/
             <div class="cv-item">
                 <h3>
                     Distributed data processing (Docker, Docker Swarm, Jupyter)
-                    <a href="https://github.com/your-repo-url" target="_blank" style="text-decoration: none;">
+                    <a href="https://github.com/kon-218/ATLAS-cloud-processing" target="_blank" style="text-decoration: none;">
                         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:24px; height:24px; margin-left:0px;">
                     </a>
                 </h3>
@@ -73,7 +80,7 @@ permalink: /cv/
             <div class="cv-item">
                 <h3>
                     Atmospec Visualization Module (iPyWidgets, Bokeh, Numpy)
-                    <a href="https://github.com/kon-218/" target="_blank" style="text-decoration: none;">
+                    <a href="https://github.com/ispg-group/aiidalab-ispg" target="_blank" style="text-decoration: none;">
                         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:24px; height:24px; margin-left:0px;">
                     </a>
                 </h3>

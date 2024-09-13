@@ -90,6 +90,21 @@ Collaborated with a team of four to design and integrate the photolysis rate vis
 <li>Responsible for the integration of the calculation module, using a Linux environment and Docker.</li>
 </ul>
 
+<div class="widget-grid">
+  <div class="widget">
+    <img src="/assets/images/code-image.jpg" alt="See the Code" class="widget-image" />
+    <h3>See the Code</h3>
+    <p>Explore the source code for this project.</p>
+    <a href="link-to-your-code" class="call-to-action">View Code</a>
+  </div>
+  
+  <div class="widget">
+    <img src="/assets/images/report-image.jpg" alt="Read the Report" class="widget-image" />
+    <h3>Read the Report</h3>
+    <p>Access the detailed report for insights.</p>
+    <a href="link-to-your-report" class="call-to-action">Read Report</a>
+  </div>
+</div>
 
 <h3>Other Projects</h3>
 {: .t60 }

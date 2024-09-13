@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>KN - Portfolio</title>
-	<updated>2024-09-10T17:34:03+00:00</updated>
+	<updated>2024-09-13T04:23:23+00:00</updated>
 
 	<subtitle>» A portfolio / blog «</subtitle>
 
@@ -246,8 +246,6 @@
 						&lt;/div&gt;
 					&lt;/dd&gt;
 					
-				
-			
 				
 			
 				
@@ -836,6 +834,22 @@
 &lt;li&gt;Developed an interactive data visualization module for a web based jupyter application using Bokeh, iPyWidgets, and numpy&lt;/li&gt;
 &lt;li&gt;Responsible for the integration of the calculation module, using a Linux environment and Docker.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;div class=&quot;widget-grid&quot;&gt;
+  &lt;div class=&quot;widget&quot;&gt;
+    &lt;img src=&quot;/assets/images/code-image.jpg&quot; alt=&quot;See the Code&quot; class=&quot;widget-image&quot; /&gt;
+    &lt;h3&gt;See the Code&lt;/h3&gt;
+    &lt;p&gt;Explore the source code for this project.&lt;/p&gt;
+    &lt;a href=&quot;link-to-your-code&quot; class=&quot;call-to-action&quot;&gt;View Code&lt;/a&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;widget&quot;&gt;
+    &lt;img src=&quot;/assets/images/report-image.jpg&quot; alt=&quot;Read the Report&quot; class=&quot;widget-image&quot; /&gt;
+    &lt;h3&gt;Read the Report&lt;/h3&gt;
+    &lt;p&gt;Access the detailed report for insights.&lt;/p&gt;
+    &lt;a href=&quot;link-to-your-report&quot; class=&quot;call-to-action&quot;&gt;Read Report&lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 
 &lt;h3 class=&quot;t60&quot;&gt;Other Projects&lt;/h3&gt;
 

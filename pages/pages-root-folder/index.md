@@ -17,15 +17,15 @@ widget3:
   image: header_unsplash_8.jpg
   text: 'My thoughts and ideas, often inspired by reading. Sometimes about Chemistry, sometimes about Computing, possibly not at all'
 widget2:
-  title: "Guides"
+  title: "CV"
   url: '/guides/'
   image: widget-1-302x182.jpg
-  text: 'Guides for Jekyll, CSS, HTML and Python. Maybe some miniseries to come.'
+  text: 'An up to date CV'
 widget1:
-  title: "Portfolio / CV"
+  title: "Portfolio"
   url: '/cv/'
   image: header_typewriter.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  text: 'A summary of my recent and past works, incuding Software Engineering, and Data Science projects covering various topics from both Chemistry and Physics'
 #
 # Use the call for action to show a button on the frontpage
 #
