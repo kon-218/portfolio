@@ -9,6 +9,46 @@
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Representative sampling in the Nuclear Ensemble Approach - full report</title>
+				<link>http://localhost:4000/portfolio/rep-sampling-for-nea/thesis-report/</link>
+				<pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+				<description>&lt;embed src=&quot;/assets/thesis_report.pdf&quot; width=&quot;100%&quot; height=&quot;600px&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/portfolio/rep-sampling-for-nea/thesis-report/</guid>
+			</item>
+		
+			<item>
+				<title>Biscuit dunking analysis report</title>
+				<link>http://localhost:4000/portfolio/biscuit-dunking-analysis/biscuit-report/</link>
+				<pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+				<description>&lt;embed src=&quot;/assets/biscuit_report.pdf&quot; width=&quot;100%&quot; height=&quot;600px&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/portfolio/biscuit-dunking-analysis/biscuit-report/</guid>
+			</item>
+		
+			<item>
+				<title>Atmospec data visualization module report</title>
+				<link>http://localhost:4000/portfolio/atmospec-data-visualization-module/atmospec-report/</link>
+				<pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+				<description>&lt;embed src=&quot;/assets/atmospec_report.pdf&quot; width=&quot;100%&quot; height=&quot;600px&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/portfolio/atmospec-data-visualization-module/atmospec-report/</guid>
+			</item>
+		
+			<item>
+				<title>ATLAS data processing report</title>
+				<link>http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/atlas-report/</link>
+				<pubDate>Wed, 25 Sep 2024 00:00:00 +0000</pubDate>
+				<description>&lt;embed src=&quot;/assets/atlas_report.pdf&quot; width=&quot;100%&quot; height=&quot;600px&quot; type=&quot;application/pdf&quot; /&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/atlas-report/</guid>
+			</item>
+		
+			<item>
 				<title>Web Building Homepage</title>
 				<link>http://localhost:4000/guides/web-building/</link>
 				<pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
@@ -63,6 +103,14 @@
 		&lt;dl class=&quot;accordion&quot; data-accordion=&quot;&quot;&gt;
 			
 
+			
+				
+			
+				
+			
+				
+			
+				
 			
 				
 					&lt;dd class=&quot;accordion-navigation&quot;&gt;
@@ -120,44 +168,6 @@
 			
 				
 			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
-				
-			
 
 			
 				
@@ -195,12 +205,6 @@
 						&lt;/div&gt;
 					&lt;/dd&gt;
 					
-				
-			
-				
-			
-				
-			
 				
 			
 				
@@ -331,34 +335,79 @@
 				<title>This Website</title>
 				<link>http://localhost:4000/portfolio/this-website/</link>
 				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
-&lt;!--more--&gt;&lt;/p&gt;
+				<description>&lt;h3&gt;Project Overview&lt;/h3&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: true
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The website is primarily a portfolio site, designed to showcase my personal projects and provide information about my academic background. The goal was to create a responsive, visually appealing website that could serve as an online CV and portfolio. The development process has given me the opportunity to deepen my understanding of web development while also exploring the advantages of automating parts of the workflow using CI/CD pipelines.&lt;/p&gt;
 
-&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
+&lt;p&gt;The key technologies used in the project include:&lt;/p&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;show_meta: false
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Jekyll&lt;/strong&gt;: A static site generator that simplifies the process of building static websites by allowing content to be stored in Markdown and using layouts to render HTML pages.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt;: The structure and backbone of the website, ensuring that the content is accessible and properly organized.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SCSS&lt;/strong&gt;: A CSS preprocessor that enables more efficient and organized styling through variables, nesting, and other features not natively supported by CSS.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: Although sparingly used, it plays a role in adding interactivity to certain elements on the site.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GitHub &amp;amp; CI/CD&lt;/strong&gt;: The code for the website is hosted on GitHub, and CI/CD pipelines are set up to automate testing and deployment, ensuring a streamlined process for continuous improvement.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+&lt;h3&gt;Key Learnings&lt;/h3&gt;
+
+&lt;h5&gt;Jekyll&lt;/h5&gt;
+
+&lt;p&gt;Jekyll was entirely new to me at the start of this project. As a static site generator, Jekyll allows for efficient management of content, especially when working with multiple pages or blog-style content like portfolio items. I found it particularly useful because of its built-in support for layouts and Markdown, allowing me to easily maintain consistent formatting across the website while also focusing on content creation.&lt;/p&gt;
+
+&lt;h5&gt;HTML &amp;amp; SCSS&lt;/h5&gt;
+
+&lt;p&gt;Having worked with HTML before, I was familiar with its basic structure and functionality. However, this project required me to think more critically about how HTML interacts with the other technologies in use, particularly SCSS. Structuring the HTML in a semantic and accessible manner was a key consideration throughout the development process.&lt;/p&gt;
+
+&lt;p&gt;SCSS’s features like variables, nesting, and mixins helped me streamline the styling process and make it more manageable. By organizing the styles in a more modular way, I could keep track of changes easily and maintain a clean codebase. I also learned how to structure my styles to improve responsiveness, ensuring the website is visually appealing on all screen sizes.&lt;/p&gt;
+
+&lt;h5&gt;Version Control with Git &amp;amp; Hosting on GitHub&lt;/h5&gt;
+
+&lt;p&gt;Using Git for version control was another crucial learning experience. This project introduced me to best practices for managing code through branches, commits, and pull requests. Understanding how to use Git efficiently has been invaluable, especially as the project evolved and required modifications.&lt;/p&gt;
+
+&lt;p&gt;Hosting the website on GitHub was straightforward, thanks to GitHub Pages. This allows me to host my static website directly from the repository without the need for additional server setup. The integration between Jekyll and GitHub Pages further simplifies the deployment process.&lt;/p&gt;
+
+&lt;h5&gt;Continuous Integration and Continuous Deployment (CI/CD)&lt;/h5&gt;
+
+&lt;p&gt;One of the most significant learning experiences during this project has been setting up CI/CD pipelines. This automated workflow ensures that every change I push to the repository is thoroughly tested and deployed, significantly reducing the risk of errors in production. Initially, setting up the pipeline was challenging, particularly configuring the automated tests and ensuring that the deployment process ran smoothly. However, after some trial and error, I successfully implemented a system that tests each commit and deploys the website once the tests pass.&lt;/p&gt;
+
+&lt;h5&gt;Challenges Faced&lt;/h5&gt;
+
+&lt;p&gt;One of the main challenges was learning how to use the various tools and technologies together. Jekyll’s structure took some time to fully understand, particularly the way layouts, includes, and posts are organized. Additionally, learning SCSS and integrating it with the HTML structure required me to reconsider how I approached styling in the past.&lt;/p&gt;
+
+&lt;p&gt;Setting up the CI/CD pipeline was also initially difficult, as I had to learn how to configure YAML files and troubleshoot errors in the automation process. However, overcoming these challenges has greatly expanded my skill set and provided me with a deeper understanding of modern web development practices.&lt;/p&gt;
+
+&lt;h3&gt;Future Plans&lt;/h3&gt;
+
+&lt;p&gt;Looking ahead, I have several plans for enhancing the website:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Improved Interactivity&lt;/strong&gt;: I plan to introduce more JavaScript-driven interactivity, such as animated transitions and enhanced user interactions with forms and buttons.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Advanced Styling&lt;/strong&gt;: I will continue refining the SCSS to make the website even more responsive and visually dynamic.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Content Expansion&lt;/strong&gt;: As I complete more projects, I will regularly update the portfolio section and expand the blog to include more in-depth discussions on my learning experiences.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-projects&quot;&gt;Other Projects&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Responsive Galleries with Foundation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
 
   
 &lt;/ul&gt;
@@ -406,6 +455,23 @@
 &lt;/ul&gt;
 &lt;!--more--&gt;
 
+&lt;div class=&quot;widget-grid&quot;&gt;
+  &lt;div class=&quot;widget&quot;&gt;
+    &lt;img src=&quot;../../images/report_repsample.png&quot; alt=&quot;Read my thesis&quot; class=&quot;widget-image&quot; /&gt;
+    &lt;h3&gt;Read my thesis&lt;/h3&gt;
+    &lt;p&gt;The Efficient Calcultion of Absorption cross-sections for Volatile Organic Compounds.&lt;/p&gt;
+    &lt;a href=&quot;thesis-report&quot; class=&quot;call-to-action&quot;&gt;Read Report&lt;/a&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&quot;widget&quot;&gt;
+    &lt;a href=&quot;https://github.com/kon-218/LaunchNEM&quot; target=&quot;_blank&quot;&gt;
+  &lt;img src=&quot;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&quot; alt=&quot;GitHub&quot; style=&quot;width:40px; height:40px;&quot; /&gt;
+&lt;/a&gt;
+
+    &lt;h3&gt;See the Code&lt;/h3&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
 &lt;h3&gt;Other Projects&lt;/h3&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
@@ -433,303 +499,6 @@
 
 </description>
 				<guid isPermaLink="true">http://localhost:4000/portfolio/rep-sampling-for-nea/</guid>
-			</item>
-		
-			<item>
-				<title>Improving scalability using cloud paradigms</title>
-				<link>http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/</link>
-				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-				<description>&lt;h3&gt;Project Objectives&lt;/h3&gt;
-
-&lt;p&gt;The primary objectives of this ATLAS open database processing project are to develop a multiservice application for the distributed processing of ATLAS open data, enhancing the efficiency of data analysis. Secondly, to integrate cloud computing technologies to improve scalability and resource management in processing large volumes of data. Overall, this project aims to demonstrate the benefits of cloud-oriented design in scientific computing as a method for improving future workflows in research.&lt;/p&gt;
-
-&lt;h3&gt;Background&lt;/h3&gt;
-
-&lt;h5&gt;ATLAS Large Hadron Collider:&lt;/h5&gt;
-&lt;p&gt;The ATLAS experiment, part of the Large Hadron Collider (LHC), aims to explore fundamental questions in particle physics by analyzing high-energy particle collisions. With billions of collisions occurring per second, the data generated is immense, necessitating advanced data processing techniques to identify interactions of interest. The ATLAS collaboration has recognized the need for innovative solutions to manage this data effectively, leading to the exploration of cloud computing as a viable option.&lt;/p&gt;
-
-&lt;h5&gt;Cloud computing:&lt;/h5&gt;
-&lt;p&gt;The integration of commercial cloud computing resources has emerged as a promising approach, providing flexibility and scalability beyond traditional computing grids. In 2011, the ATLAS experiment initiated a cloud computing research and development project to investigate how cloud paradigms could enhance its existing distributed computing model. This project aims to adapt a sample processing script to utilize cloud technologies, demonstrating the advantages of a cloud-oriented design for future workflows.&lt;/p&gt;
-
-&lt;h3&gt;Results&lt;/h3&gt;
-
-&lt;p&gt;The implementation consists of a multiservice application for the analysis of Higgs boson decay pathways. Key results include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Facilitized containerization of processing script, ensuring consistent deployment across different environments, as well as improved maintainability.&lt;/li&gt;
-&lt;li&gt;Increased scalability using a service based architechture that can be adapted based on demand. Demonstrated scalability locally using docker swarm.&lt;/li&gt;
-&lt;li&gt;Streamlined communication between services using RabbitMQ, eliminating race conditions and reducing storage requirements.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;widget-grid&quot;&gt;
-  &lt;div class=&quot;widget&quot;&gt;
-    &lt;img src=&quot;../../images/report_atlas.png&quot; alt=&quot;Read the Report&quot; class=&quot;widget-image&quot; /&gt;
-    &lt;h3&gt;Read the Report&lt;/h3&gt;
-    &lt;p&gt;Access the detailed report for insights.&lt;/p&gt;
-    &lt;a href=&quot;link-to-your-report&quot; class=&quot;call-to-action&quot;&gt;Read Report&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;widget&quot;&gt;
-    &lt;a href=&quot;https://github.com/your-username&quot; target=&quot;_blank&quot;&gt;
-  &lt;img src=&quot;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&quot; alt=&quot;GitHub&quot; style=&quot;width:40px; height:40px;&quot; /&gt;
-&lt;/a&gt;
-
-    &lt;h3&gt;See the Code&lt;/h3&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h2 class=&quot;t60&quot; id=&quot;other-projects&quot;&gt;Other Projects&lt;/h2&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/</guid>
-			</item>
-		
-			<item>
-				<title>Biscuit Dunking Data Analysis</title>
-				<link>http://localhost:4000/portfolio/biscuit-dunking-analysis/</link>
-				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-				<description>&lt;p&gt;Biscuit dunking is an essential aspect of British culture, whether you’re dunking chocolate coated biscuits, oat, or digestives, everyone is guilty of the occasional dunk. This can lead even to the point of rivalry, betweeen the one second dunkers and the die hard, wait as long as you can without the biscuit crumbling camp. An investigation into McVities biscuit dunking data has been conducted to clear the air on the difference between three types of biscuits: Digestives, Hobnobs, and Rich Tea.&lt;/p&gt;
-
-&lt;h3&gt;Project Objectives&lt;/h3&gt;
-
-&lt;p&gt;This investigation aimed to explore the physical differences between biscuits through empirical data collected from dunking experiments. It analyzed the applicability of capillary flow action to biscuits, examining the relationship between the pore radius and capillary flow rate during dunking. This translated into insights on how tea travels up the different types of biscuit. Machine Learning methods were investigated for the classication of biscuit type, as well as for modelling the pore radius of the biscuits.&lt;/p&gt;
-
-&lt;h3&gt;Background&lt;/h3&gt;
-
-&lt;h5&gt;Capillary action:&lt;/h5&gt;
-&lt;p&gt;The primary focus of this study was the relationship between the pore radius of the biscuits and their ability to absorb liquid, which is governed by capillary action. This is the ability of a liquid to flow in narrow spaces, even against gravity, and it is heavily influenced by the physical properties of the material - in this case, biscuits. The Washburn equation, a fundemental model of capillary flow action, was found to give a good estimate of the pore radius from the available data, therefore this was used as a starting point as a pore radius predictor&lt;/p&gt;
-
-&lt;h5&gt;Biscuit Classification:&lt;/h5&gt;
-
-&lt;p&gt;Biscuit classification was attempted with and without the pore radius, finding greatly improved classification with the pore radius included. Both Supervised and Unsupervised methods were used, K-means clustering was attempted, however it was found to misinterpret Rich Tea for Hobnobs, and vice versa. A tuned Random Forest Classifier was found to be the best supervised predictor of biscuit type, with a 93.5 % minimum accuracy for Hobnobs, ranging to 100 % accuracy for Digestive biscuits&lt;/p&gt;
-
-&lt;h5&gt;Regression..&lt;/h5&gt;
-
-&lt;h3&gt;Results&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Performed exploratory data analysis (EDA) to clean and interpret experimental biscuit dunking data.&lt;/li&gt;
-&lt;li&gt;Used Regression models, such as the Washburn model, Kernel Ridge Regression, and Random Forest Regression to predict the pore size of biscuits.&lt;/li&gt;
-&lt;li&gt;Trained a Random Forest Classifier with an average 96 % accuracy across biscuit types.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!--more--&gt;
-
-&lt;h3&gt;Other Projects&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/portfolio/biscuit-dunking-analysis/</guid>
-			</item>
-		
-			<item>
-				<title>Atmospec Visualization Module</title>
-				<link>http://localhost:4000/portfolio/atmospec-data-visualization-module/</link>
-				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-				<description>&lt;h3&gt;Project Objectives&lt;/h3&gt;
-
-&lt;p&gt;The primary aim of this project was to design and integrate a module for the visualization of photolysis rate data, obtained through the AtmoSpec application. This module would allow the user to dynamically visualize additional results from their Quantum Chemistry calculations. The Atmospec application was distributed using a docker container, and presented as a jupyter web application. The module was directly integrated into the results page.&lt;/p&gt;
-
-&lt;h3&gt;Background&lt;/h3&gt;
-
-&lt;h5&gt;Atmospec:&lt;/h5&gt;
-&lt;p&gt;Atmospec is an application developed for atmospheric researchers as a tool for the calculation of photo absorption cross-sections. It provides a simplified, automated workflow;  with an integrated database, a graphical user interface, and the capability to run quantum mechanical calculations. This allows academics with limited computational chemistry knowledge to leverage the most recent advances in the field, with little barrier for entry. While Atmospec showed a calculated photoabsorption cross-section, it gave no information about the photolysis rate, although the data was readily available.&lt;/p&gt;
-
-&lt;p&gt;For more information on AtmoSpec, check out this blog post!&lt;/p&gt;
-
-&lt;h5&gt;Photolysis rate:&lt;/h5&gt;
-
-&lt;div style=&quot;display: flex; justify-content: center; margin: 20px 0;&quot;&gt;
-  &lt;math xmlns=&quot;http://www.w3.org/1998/Math/MathML&quot; style=&quot;font-size: 1.5em;&quot;&gt;
-
-    &lt;mrow&gt;
-      &lt;mi&gt;J&lt;/mi&gt;
-      &lt;mo&gt;=&lt;/mo&gt;
-      &lt;msubsup&gt;
-        &lt;mo style=&quot;font-size: 1.5em;&quot;&gt;∫&lt;/mo&gt;
-        &lt;mrow&gt;
-          &lt;mi&gt;λ&lt;/mi&gt;
-          &lt;mo&gt;min&lt;/mo&gt;
-        &lt;/mrow&gt;
-        &lt;mrow&gt;
-          &lt;mi&gt;λ&lt;/mi&gt;
-          &lt;mo&gt;max&lt;/mo&gt;
-        &lt;/mrow&gt;
-      &lt;/msubsup&gt;
-      &lt;mrow&gt;
-        &lt;mi&gt;F&lt;/mi&gt;
-        &lt;mo&gt;(&lt;/mo&gt;
-        &lt;mi&gt;λ&lt;/mi&gt;
-        &lt;mo&gt;)&lt;/mo&gt;
-        &lt;mo&gt;&amp;#8290;&lt;/mo&gt; &lt;!-- Invisible times --&gt;
-        &lt;mi&gt;σ&lt;/mi&gt;
-        &lt;mo&gt;(&lt;/mo&gt;
-        &lt;mi&gt;λ&lt;/mi&gt;
-        &lt;mo&gt;)&lt;/mo&gt;
-        &lt;mo&gt;&amp;#8290;&lt;/mo&gt; &lt;!-- Invisible times --&gt;
-        &lt;mi&gt;Φ&lt;/mi&gt;
-        &lt;mo&gt;(&lt;/mo&gt;
-        &lt;mi&gt;λ&lt;/mi&gt;
-        &lt;mo&gt;)&lt;/mo&gt;
-        &lt;mo&gt;&amp;#8290;&lt;/mo&gt; &lt;!-- Invisible times --&gt;
-        &lt;mi&gt;d&lt;/mi&gt;
-        &lt;mi&gt;λ&lt;/mi&gt;
-      &lt;/mrow&gt;
-    &lt;/mrow&gt;
-    
-  &lt;/math&gt;
-&lt;/div&gt;
-
-&lt;p&gt;The photolysis rate is an extremely important quantity for atmospheric chemists, as it can help scientists understand and predict the photochemical reactivities and lifetimes of Volatile Organic Compounds (VOCs). The investigation of such properties informs chemical models, such as the Master Chemical Mechanicsm, allowing us to better predict and model the atmospheric composition. The equation above illustrates the calculation of photolysis rate. It is an integral over the product of F (Actinic lux), σ (Photoabsorption cross-section), and Φ (Quantum yield). This can be thought of as the number of photons available at a certain wavelength, multiplied by the likelihood that the molecule absorbs at that wavelength, adjusted for the quantum efficiency of the process.&lt;/p&gt;
-
-&lt;p&gt;Since AtmoSpec produced the absorption cross section, our task was to compile the necessary actinic flux and quantum yield data, calculate the photolysis rate, and present this as an integrated module within the AtmoSpec application.&lt;/p&gt;
-
-&lt;h3&gt;Results&lt;/h3&gt;
-
-&lt;p&gt;Collaborated with a team of four to design and integrate the photolysis rate visualization module into the AtmoSpec application. Key results include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Liased with application users to understand the widget requirements&lt;/li&gt;
-&lt;li&gt;Developed an interactive data visualization module for a web based jupyter application using Bokeh, iPyWidgets, and numpy&lt;/li&gt;
-&lt;li&gt;Responsible for the integration of the calculation module, using a Linux environment and Docker.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;widget-grid&quot;&gt;
-  &lt;div class=&quot;widget&quot;&gt;
-    &lt;img src=&quot;../../images/report_atlas.png&quot; alt=&quot;Read the Report&quot; class=&quot;widget-image&quot; /&gt;
-    &lt;h3&gt;Read the Report&lt;/h3&gt;
-    &lt;p&gt;Access the detailed report for insights.&lt;/p&gt;
-    &lt;a href=&quot;link-to-your-report&quot; class=&quot;call-to-action&quot;&gt;Read Report&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;widget&quot;&gt;
-    &lt;img src=&quot;/assets/images/code-image.jpg&quot; alt=&quot;See the Code&quot; class=&quot;widget-image&quot; /&gt;
-    &lt;h3&gt;See the Code&lt;/h3&gt;
-    &lt;p&gt;Explore the source code for this project.&lt;/p&gt;
-    &lt;a href=&quot;link-to-your-code&quot; class=&quot;call-to-action&quot;&gt;View Code&lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3 class=&quot;t60&quot;&gt;Other Projects&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/portfolio/atmospec-data-visualization-module/</guid>
-			</item>
-		
-			<item>
-				<title>Accelerating Python code</title>
-				<link>http://localhost:4000/portfolio/accelerating-python-code/</link>
-				<pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-				<description>&lt;h3&gt;Project Objectives&lt;/h3&gt;
-
-&lt;p&gt;To increase the efficiency of Lebwhol Lasher model, coded in Python, by investigating and reducing code bottlenecks. A combination of techniques were used including OpenMP, MPI and C++, as well as Python modules numba and numpy.&lt;/p&gt;
-
-&lt;h3&gt;Background&lt;/h3&gt;
-&lt;h5&gt;Lebwohl Lasher model:&lt;/h5&gt;
-
-&lt;h5&gt;Increasing the efficiency:&lt;/h5&gt;
-
-&lt;h3&gt;Results&lt;/h3&gt;
-
-&lt;p&gt;Implemented combinations of accelleration methods to reduce bottlenecks in the computationally intensive Lebwohl Lasher method. Key results include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</description>
-				<guid isPermaLink="true">http://localhost:4000/portfolio/accelerating-python-code/</guid>
 			</item>
 		
 	</channel>
