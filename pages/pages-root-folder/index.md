@@ -15,17 +15,17 @@ widget3:
   title: "Blog"
   url: '/blog/'
   image: header_unsplash_8.jpg
-  text: 'My thoughts and ideas, often inspired by reading. Sometimes about Chemistry, sometimes about Computing, possibly not at all'
+  text: 'My thoughts and ideas, often inspired by reading. Sometimes about Chemistry, sometimes about Computing, possibly not at all.'
 widget2:
   title: "CV"
-  url: '/guides/'
+  url: '/cv/'
   image: widget-1-302x182.jpg
-  text: 'An up to date CV'
+  text: 'Showcasing my academic background, technical skills, and professional experiences in Chemistry and Computing.'
 widget1:
   title: "Portfolio"
-  url: '/cv/'
+  url: '/portfolio/'
   image: header_typewriter.jpg
-  text: 'A summary of my recent and past works, incuding Software Engineering, and Data Science projects covering various topics from both Chemistry and Physics'
+  text: 'A summary of my ongoing and recent projects, incuding Software Engineering, and Data Science projects covering various topics from both Chemistry and Physics.'
 #
 # Use the call for action to show a button on the frontpage
 #

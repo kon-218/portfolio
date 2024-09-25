@@ -83,7 +83,7 @@ Feel free to explore the various projects by clicking the image above for the co
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30 project">
-        <a href="/portfolio/cloud-paradigm-atlas-processing">
+        <a href="/portfolio/cloud-paradigm-atlas-data-processing">
             <img src="{{ site.urlimg }}cloudtech.jpeg" alt="">
         </a>
         <div class="project-content">

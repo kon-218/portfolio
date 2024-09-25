@@ -513,14 +513,14 @@ body.video cite { color: #fff; }
   
       .call-to-action {
         display: inline-block;
-        background-color: #007bff;
+        background-color: #334D5C;
         color: white;
         padding: 10px 15px;
         text-decoration: none;
         border-radius: 5px;
   
         &:hover {
-          background-color: #0056b3;
+          background-color: #334D5C;
         }
       }
     }
@@ -714,15 +714,20 @@ body.video cite { color: #fff; }
 @media (max-width: 768px) {
     .guides-container {
         flex-direction: column;
-        align-items: center;
+        align-items: center; // Make sure items stretch to full width
+        padding: 0; // Remove padding from the container to allow full width
     }
 
     .guide-item {
-        width: 100%;
+        width: 100vw; // Ensure full viewport width
+        margin: 0; // Remove any margins
+        border-radius: 0; // Remove border-radius to fill the entire width
     }
 
     .card {
-        max-width: 100%;
+        max-width: 100vw; // Ensure full viewport width
+        padding: 0; // Adjust padding if necessary
+        border-radius: 0;  // Remove border radius for a flush look
     }
 }
 
