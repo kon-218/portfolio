@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>KN - Portfolio</title>
-	<updated>2024-09-25T20:02:46+00:00</updated>
+	<updated>2024-09-27T18:37:17+00:00</updated>
 
 	<subtitle>» A portfolio / blog «</subtitle>
 
@@ -24,6 +24,178 @@
 
 	<generator uri="http://jekyllrb.com" version="4.3.3">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/blog/nuclear-ensemble-approach</id>
+			<title>The Nuclear Ensemble Approach</title>
+			<link href="http://localhost:4000/blog/nuclear-ensemble-approach" rel="alternate" type="text/html" title="The Nuclear Ensemble Approach" />
+			<updated>2024-09-27T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>A method for the calculation of photoabsorption cross-sections</summary>
+			<content type="html" xml:base="http://localhost:4000/blog/nuclear-ensemble-approach">
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Nuclear Ensemble Approach" />
+			
+				<category term="NEA" />
+			
+				<category term="photoabsorption cross-sections" />
+			
+				<category term="Quantum Chemistry" />
+			
+				<category term="Atmospec" />
+			
+				<category term="Python" />
+			
+
+			<published>2024-09-27T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/blog/what-is-atmospec</id>
+			<title>AtmoSpec: A Revolutionary Tool for Atmospheric Chemists</title>
+			<link href="http://localhost:4000/blog/what-is-atmospec" rel="alternate" type="text/html" title="AtmoSpec: A Revolutionary Tool for Atmospheric Chemists" />
+			<updated>2024-09-26T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>UV/Vis Spectroscopy for all!</summary>
+			<content type="html" xml:base="http://localhost:4000/blog/what-is-atmospec">&lt;p&gt;In the realm of atmospheric chemistry, &lt;strong&gt;Volatile Organic Compounds (VOCs)&lt;/strong&gt; are extremely important, as they can significantly influence air quality and climate, yet their photochemical reactivities and lifetimes are often poorly understood. This lack of knowledge is primarily due to the challenges associated with isolating and measuring these transient VOCs, which stands in the way of conventional laboratory methods. 
+Understanding how VOCs interact with sunlight is essential for developing accurate atmospheric chemistry models. &lt;strong&gt;Photoabsorption cross-sections&lt;/strong&gt; are key parameters that describe how much light a molecule can absorb at different wavelengths. This information is crucial for predicting the photolysis processes that VOCs undergo, which in turn affects their reactivity and lifetime in the atmosphere. Unfortunately, obtaining these cross-sections experimentally can be difficult, often unfeasable due to their instability. Recent advances in computational photochemistry allow for the calculation of these photoabsorption cross-sections, but this can be inaccessible to those less computationally savvy.&lt;/p&gt;
+
+&lt;h3 id=&quot;atmospec-an-automated-workflow-using-nea&quot;&gt;AtmoSpec: An Automated Workflow Using NEA&lt;/h3&gt;
+
+&lt;p&gt;To address these challenges, the InSilico Photochemistry group at the University of Bristol have developed an interactive computational tool, AtmoSpec, that automates the calculation of photoabsorption cross-sections for VOCs using the &lt;strong&gt;Nuclear Ensemble Approach (NEA)&lt;/strong&gt;. This automated workflow simplifies the process, allowing users to input a molecule’s structure via a simple SMILES code and select a theoretical framework. AtmoSpec then performs the necessary quantum chemistry calculations using ORCA, and provides users with the photoabsorption cross-section for the molecule’s low-energy conformers, along with estimates of photolysis rate coefficients for various actinic fluxes. This abstraction of a complex computational process makes advances in computational chemistry accessible to researchers less familiar with such methods, giving them access to quantum mechanical tools in their respective areas of research&lt;/p&gt;
+
+&lt;p&gt;AtmoSpec is built on the Aiidalab ecosystem, with an integrated database and workflow manager for seamless execution of calculations and storage of results. Moreover, Quantum Chemistry calculations can be configured for local execution or on the cloud, allowing for greater flexibility. Similarly, the web application delivery allows for remote access from anywhere in the world, and the containerization via Docker ensures robust deployment in any environment. The open source nature encourages contributions and collaborations.&lt;/p&gt;
+
+&lt;h3 id=&quot;future-improvements&quot;&gt;Future Improvements&lt;/h3&gt;
+
+&lt;p&gt;Looking ahead, the InSilicoPhotochemistry group are committed to continuous improvement of the tool. Future enhancements will focus on implementing a improvements in the Nuclear Ensemble Approach, such as &lt;a href=&quot;/portfolio/rep-sampling-for-nea/&quot; title=&quot;Learn about representative sampling techniques&quot;&gt;Representative Sampling Techniques&lt;/a&gt; to improve the efficiency of the algorithm, thereby making it more applicable to larger, more complex molecules. Additionally, interfacing the application with the GPU accellerated package TeraChem will provide appreciable speed up in the quantum chemistry calculations.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;AtmoSpec is poised to revolutionize the study of VOCs in atmospheric chemistry by providing an accessible and automated method for calculating photoabsorption cross-sections. It empowers researchers to gain deeper insights into the impact of these compounds on our environment without the need for costly laboratory experiments, and in a timely fashion. Whether you are a seasoned scientist or a newcomer to the field, AtmoSpec is a valuable resource that can enhance your understanding of a molecule’s photochemical properties. Additionally, with the planned improvements, its efficiency is set to increase dramatically resulting in wider applicability to more complex molecules.&lt;/p&gt;
+
+&lt;p&gt;For more information and to access AtmoSpec, visit the &lt;a href=&quot;https://github.com/ispg-group/aiidalab-ispg&quot;&gt;ATMOSPEC GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot;&gt;Other Blog posts&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/blog/nuclear-ensemble-approach&quot;&gt;Photochemistry &amp;middot; &lt;strong&gt;The Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/blog/what-is-atmospec&quot;&gt;Atmospheric Chemistry &amp;middot; &lt;strong&gt;AtmoSpec: A Revolutionary Tool for Atmospheric Chemists&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/blog/predicting-solubility&quot;&gt;Computational Chemistry &amp;middot; &lt;strong&gt;A Machine learning approach to the prediction of solubility&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Atmospec" />
+			
+				<category term="Atmospheric Chemistry" />
+			
+				<category term="Quantum Chemistry" />
+			
+				<category term="Open source" />
+			
+				<category term="Software" />
+			
+				<category term="Python" />
+			
+
+			<published>2024-09-26T00:00:00+00:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/blog/predicting-solubility</id>
+			<title>A Machine learning approach to the prediction of solubility</title>
+			<link href="http://localhost:4000/blog/predicting-solubility" rel="alternate" type="text/html" title="A Machine learning approach to the prediction of solubility" />
+			<updated>2024-09-26T00:00:00+00:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Konstantin N</name>
+					
+					
+					
+				</author>
+			
+			<summary>Save the tedious lab work!</summary>
+			<content type="html" xml:base="http://localhost:4000/blog/predicting-solubility">&lt;p&gt;In the realms of pharmaceuticals and agrochemicals, solubility is a cornerstone of efficacy and safety. For pharmaceuticals, solubility determines how well a drug can dissolve in bodily fluids, impacting its bioavailability and therapeutic effectiveness. Poor solubility can lead to inadequate drug absorption, reduced efficacy, and potential toxicity due to crystallization within the body1. In agrochemicals, solubility affects the environmental behavior and toxicity of compounds, influencing their effectiveness and safety in agricultural applications1.&lt;/p&gt;
+
+&lt;p&gt;Why Solubility Matters:&lt;/p&gt;
+
+&lt;p&gt;Pharmaceuticals: High solubility ensures that drugs can be absorbed efficiently into the bloodstream, enhancing their therapeutic impact. It also mitigates risks associated with poorly soluble drugs, such as crystallization and toxicity1.
+Agrochemicals: Solubility influences how chemicals interact with the environment, affecting their distribution, effectiveness, and potential environmental impact1.
+Challenges in Solubility Prediction: Traditional methods for determining solubility, such as turbidimetric and potentiometric techniques, are time-consuming and resource-intensive1. High-throughput screening methods have improved efficiency but still face limitations in terms of cost and scalability1.&lt;/p&gt;
+
+&lt;p&gt;Machine Learning to the Rescue: Machine learning (ML) offers a transformative approach to predicting solubility. By leveraging vast datasets and advanced algorithms, ML models can predict solubility with high accuracy, reducing the need for extensive experimental testing1. Graph Convolutional Networks (GCNs), in particular, have shown promise in modeling molecular structures and predicting properties like solubility1.&lt;/p&gt;
+
+&lt;p&gt;Benefits of ML in Solubility Prediction:&lt;/p&gt;
+
+&lt;p&gt;Efficiency: ML models can rapidly screen large libraries of compounds, identifying promising candidates without the need for exhaustive experimental testing1.
+Accuracy: Advanced ML algorithms can capture complex relationships between molecular structures and solubility, providing reliable predictions1.
+Resource Optimization: By reducing the reliance on experimental methods, ML helps conserve valuable resources and accelerates the development process1.
+In conclusion, the integration of machine learning into solubility prediction represents a significant advancement for both the pharmaceutical and agrochemical industries. It not only enhances the efficiency and accuracy of solubility assessments but also supports the development of safer and more effective compounds.&lt;/p&gt;
+</content>
+
+			
+				<category term="blog" />
+			
+			
+				<category term="Solubility" />
+			
+				<category term="Computational Chemistry" />
+			
+				<category term="QSAR" />
+			
+				<category term="Machine Learning" />
+			
+				<category term="Graph Convolutional Networks" />
+			
+				<category term="Python" />
+			
+
+			<published>2024-09-26T00:00:00+00:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/portfolio/rep-sampling-for-nea/thesis-report/</id>
@@ -276,6 +448,12 @@
 				
 			
 				
+			
+				
+			
+				
+			
+				
 					&lt;dd class=&quot;accordion-navigation&quot;&gt;
 						&lt;a href=&quot;#panel1&quot;&gt;&lt;span class=&quot;iconfont&quot;&gt;&lt;/span&gt; HTML and CSS › &lt;strong&gt;Web Building Homepage&lt;/strong&gt;&lt;/a&gt;
 						&lt;div id=&quot;panel1&quot; class=&quot;content&quot;&gt;
@@ -407,6 +585,8 @@
 </content>
 
 			
+				<category term="guides" />
+			
 			
 
 			<published>2024-08-07T00:00:00+00:00</published>
@@ -474,292 +654,6 @@
 			
 
 			<published>2024-08-07T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/guides/other/</id>
-			<title>Other Homepage</title>
-			<link href="http://localhost:4000/guides/other/" rel="alternate" type="text/html" title="Other Homepage" />
-			<updated>2024-08-07T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Konstantin N</name>
-					
-					
-					
-				</author>
-			
-			<summary>Other Guides... </summary>
-			<content type="html" xml:base="http://localhost:4000/guides/other/">&lt;!--more--&gt;
-
-&lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
-    &lt;div class=&quot;panel radius&quot;&gt;
-      &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#lato--a-sans-serif-typeface-family&quot; id=&quot;markdown-toc-lato--a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-    &lt;/div&gt;
-  &lt;/div&gt;&lt;!-- /.medium-4.columns --&gt;
-
-&lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
-
-    &lt;h2 id=&quot;lato--a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/h2&gt;
-
-    &lt;p&gt;[&lt;dfn&gt;Lato&lt;/dfn&gt;][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google.&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;&lt;span class=&quot;teaser&quot;&gt;I do not think of type as something that should be readable. It should be beautiful.&lt;/span&gt;&lt;cite&gt;[Ed Benguiat][3]&lt;/cite&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;In the last ten or so years, during which Łukasz has been designing type, most of his projects were rooted in a particular design task that he needed to solve. With Lato, it was no different. Originally, the family was conceived as a set of corporate fonts for a large client — who in the end decided to go in different stylistic direction, so the family became available for a public release.&lt;/p&gt;
-
-    &lt;p&gt;When working on Lato, Łukasz tried to carefully balance some potentially conflicting priorities. He wanted to create a typeface that would seem quite “transparent” when used in body text but would display some original traits when used in larger sizes. He used classical proportions (particularly visible in the uppercase) to give the letterforms familiar harmony and elegance. At the same time, he created a sleek sans serif look, which makes evident the fact that Lato was designed in 2010 — even though it does not follow any current trend.&lt;/p&gt;
-
-    &lt;p&gt;The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz. Learn more at [www.latofonts.com][6]&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;../../images/ilovepython2.jpg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
-
-    &lt;div class=&quot;header-test&quot;&gt;
-  &lt;img src=&quot;ilovepython2.jpg&quot; alt=&quot;Header Test&quot; /&gt;
-&lt;/div&gt;
-  &lt;/div&gt;&lt;/div&gt;
-</content>
-
-			
-				<category term="guides" />
-			
-				<category term="python" />
-			
-			
-
-			<published>2024-08-07T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/portfolio/this-website/</id>
-			<title>This Website</title>
-			<link href="http://localhost:4000/portfolio/this-website/" rel="alternate" type="text/html" title="This Website" />
-			<updated>2024-08-04T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Konstantin N</name>
-					
-					
-					
-				</author>
-			
-			<summary>This website is an ongoing project, developing my abities in HTML and CSS.</summary>
-			<content type="html" xml:base="http://localhost:4000/portfolio/this-website/">&lt;h3&gt;Project Overview&lt;/h3&gt;
-
-&lt;p&gt;The website is primarily a portfolio site, designed to showcase my personal projects and provide information about my academic background. The goal was to create a responsive, visually appealing website that could serve as an online CV and portfolio. The development process has given me the opportunity to deepen my understanding of web development while also exploring the advantages of automating parts of the workflow using CI/CD pipelines.&lt;/p&gt;
-
-&lt;p&gt;The key technologies used in the project include:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Jekyll&lt;/strong&gt;: A static site generator that simplifies the process of building static websites by allowing content to be stored in Markdown and using layouts to render HTML pages.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt;: The structure and backbone of the website, ensuring that the content is accessible and properly organized.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;SCSS&lt;/strong&gt;: A CSS preprocessor that enables more efficient and organized styling through variables, nesting, and other features not natively supported by CSS.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;JavaScript&lt;/strong&gt;: Although sparingly used, it plays a role in adding interactivity to certain elements on the site.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;GitHub &amp;amp; CI/CD&lt;/strong&gt;: The code for the website is hosted on GitHub, and CI/CD pipelines are set up to automate testing and deployment, ensuring a streamlined process for continuous improvement.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Key Learnings&lt;/h3&gt;
-
-&lt;h5&gt;Jekyll&lt;/h5&gt;
-
-&lt;p&gt;Jekyll was entirely new to me at the start of this project. As a static site generator, Jekyll allows for efficient management of content, especially when working with multiple pages or blog-style content like portfolio items. I found it particularly useful because of its built-in support for layouts and Markdown, allowing me to easily maintain consistent formatting across the website while also focusing on content creation.&lt;/p&gt;
-
-&lt;h5&gt;HTML &amp;amp; SCSS&lt;/h5&gt;
-
-&lt;p&gt;Having worked with HTML before, I was familiar with its basic structure and functionality. However, this project required me to think more critically about how HTML interacts with the other technologies in use, particularly SCSS. Structuring the HTML in a semantic and accessible manner was a key consideration throughout the development process.&lt;/p&gt;
-
-&lt;p&gt;SCSS’s features like variables, nesting, and mixins helped me streamline the styling process and make it more manageable. By organizing the styles in a more modular way, I could keep track of changes easily and maintain a clean codebase. I also learned how to structure my styles to improve responsiveness, ensuring the website is visually appealing on all screen sizes.&lt;/p&gt;
-
-&lt;h5&gt;Version Control with Git &amp;amp; Hosting on GitHub&lt;/h5&gt;
-
-&lt;p&gt;Using Git for version control was another crucial learning experience. This project introduced me to best practices for managing code through branches, commits, and pull requests. Understanding how to use Git efficiently has been invaluable, especially as the project evolved and required modifications.&lt;/p&gt;
-
-&lt;p&gt;Hosting the website on GitHub was straightforward, thanks to GitHub Pages. This allows me to host my static website directly from the repository without the need for additional server setup. The integration between Jekyll and GitHub Pages further simplifies the deployment process.&lt;/p&gt;
-
-&lt;h5&gt;Continuous Integration and Continuous Deployment (CI/CD)&lt;/h5&gt;
-
-&lt;p&gt;One of the most significant learning experiences during this project has been setting up CI/CD pipelines. This automated workflow ensures that every change I push to the repository is thoroughly tested and deployed, significantly reducing the risk of errors in production. Initially, setting up the pipeline was challenging, particularly configuring the automated tests and ensuring that the deployment process ran smoothly. However, after some trial and error, I successfully implemented a system that tests each commit and deploys the website once the tests pass.&lt;/p&gt;
-
-&lt;h5&gt;Challenges Faced&lt;/h5&gt;
-
-&lt;p&gt;One of the main challenges was learning how to use the various tools and technologies together. Jekyll’s structure took some time to fully understand, particularly the way layouts, includes, and posts are organized. Additionally, learning SCSS and integrating it with the HTML structure required me to reconsider how I approached styling in the past.&lt;/p&gt;
-
-&lt;p&gt;Setting up the CI/CD pipeline was also initially difficult, as I had to learn how to configure YAML files and troubleshoot errors in the automation process. However, overcoming these challenges has greatly expanded my skill set and provided me with a deeper understanding of modern web development practices.&lt;/p&gt;
-
-&lt;h3&gt;Future Plans&lt;/h3&gt;
-
-&lt;p&gt;Looking ahead, I have several plans for enhancing the website:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Improved Interactivity&lt;/strong&gt;: I plan to introduce more JavaScript-driven interactivity, such as animated transitions and enhanced user interactions with forms and buttons.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Advanced Styling&lt;/strong&gt;: I will continue refining the SCSS to make the website even more responsive and visually dynamic.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Content Expansion&lt;/strong&gt;: As I complete more projects, I will regularly update the portfolio section and expand the blog to include more in-depth discussions on my learning experiences.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 class=&quot;t60&quot; id=&quot;other-projects&quot;&gt;Other Projects&lt;/h2&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="projects" />
-			
-			
-				<category term="HTML" />
-			
-				<category term="CSS" />
-			
-				<category term="Jekyll" />
-			
-				<category term="Markdown" />
-			
-
-			<published>2024-08-04T00:00:00+00:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/portfolio/rep-sampling-for-nea/</id>
-			<title>Representative Samping for the Nuclear Ensemble Approach</title>
-			<link href="http://localhost:4000/portfolio/rep-sampling-for-nea/" rel="alternate" type="text/html" title="Representative Samping for the Nuclear Ensemble Approach" />
-			<updated>2024-08-04T00:00:00+00:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Konstantin N</name>
-					
-					
-					
-				</author>
-			
-			<summary>Implemented the Representative Sampling Method using Simulated Annealing to increase the efficiency of high-cost Quantum Chemistry photoabsorption cross-section calculations</summary>
-			<content type="html" xml:base="http://localhost:4000/portfolio/rep-sampling-for-nea/">&lt;p&gt;&lt;img src=&quot;../../images/a.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Masters thesis project at the University of Bristol &lt;a href=&quot;https://in-silico-photochem.com/&quot;&gt;InSilicoPhotochemistry&lt;/a&gt; group&lt;/p&gt;
-
-&lt;h3&gt;Project Objectives&lt;/h3&gt;
-
-&lt;p&gt;The primary aim of this thesis was to implement optimal sampling of a representative nuclear ensemble using simulated annealing within the Atmospec workchain. This approach seeks to provide a fast and efficient method for exploring the photoabsorption cross-sections of gas-phase Volative Organic Compounds.&lt;/p&gt;
-
-&lt;h3&gt;Background&lt;/h3&gt;
-
-&lt;h5&gt;Photoabsorption Cross-Sections:&lt;/h5&gt;
-
-&lt;p&gt;Photoabsorption cross-sections are fundamental parameters that quantify the likelihood of a photon being absorbed by a molecule. They play a crucial role in atmospheric chemistry and photochemistry. They help us understand how volatile organic compounds (VOCs) interact with light, which is essential for modeling atmospheric processes, predicting the behavior of pollutants, and assessing their impact on climate and air quality.&lt;/p&gt;
-
-&lt;h5&gt;Challenges in Calculation:&lt;/h5&gt;
-
-&lt;p&gt;The traditional methods for calculating photoabsorption cross-sections often rely on quantum mechanical approaches, which can be computationally intensive. These methods typically require the evaluation of a large number of nuclear geometries to capture the full range of molecular conformations that contribute to the absorption spectrum. As the complexity of the molecule increases, the number of required calculations can grow exponentially, making it computationally prohibitive to obtain accurate results for larger or more complex VOCs.&lt;/p&gt;
-
-&lt;p&gt;The Nuclear Ensemble Approach is a powerful technique that allows for the consideration of multiple nuclear configurations simultaneously. By averaging over a large ensemble of molecular geometries, this method can provide a more accurate representation of the system’s behavior. However, the requirement for thousands of nuclear geometries poses significant challenges in terms of computational resources and time, particularly for complex molecules.&lt;/p&gt;
-
-&lt;h5&gt;Representative Sampling:&lt;/h5&gt;
-
-&lt;p&gt;Representative sampling aims to reduce the number of nuclear geometries needed in an ensemble to reduce the computational burden of photoabsorption cross-section calculations. It runs an initial exploratory calculation using a large ensemble (&amp;gt; 1000), then iteratively reduces the ensemble size using Simulated Annealing and Kullbeck-Leibler divergence algorithms. The overall aim is the minimize the number of geometries while retaining the most information within the ensemble as possible.&lt;/p&gt;
-
-&lt;h3&gt;Results&lt;/h3&gt;
-
-&lt;p&gt;Representative sampling method within the Nuclear Ensemble Approach was successfully implemented.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Significantly reduced computational burden associated with photoabsorption cross-section calculation. This allows for the efficient exploration of larger and more complex molecules.&lt;/li&gt;
-&lt;li&gt;Spectra calculated using reduced ensemble effectively capture the essential features of the photoabsorption cross-sections.&lt;/li&gt;
-&lt;li&gt;Demonstrated robustness across multiple Volatile Organic Compounds.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!--more--&gt;
-
-&lt;div class=&quot;widget-grid&quot;&gt;
-  &lt;div class=&quot;widget&quot;&gt;
-    &lt;img src=&quot;../../images/report_repsample.png&quot; alt=&quot;Read my thesis&quot; class=&quot;widget-image&quot; /&gt;
-    &lt;h3&gt;Read my thesis&lt;/h3&gt;
-    &lt;p&gt;The Efficient Calcultion of Absorption cross-sections for Volatile Organic Compounds.&lt;/p&gt;
-    &lt;a href=&quot;thesis-report&quot; class=&quot;call-to-action&quot;&gt;Read Report&lt;/a&gt;
-  &lt;/div&gt;
-
-  &lt;div class=&quot;widget&quot;&gt;
-    &lt;a href=&quot;https://github.com/kon-218/LaunchNEM&quot; target=&quot;_blank&quot;&gt;
-  &lt;img src=&quot;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&quot; alt=&quot;GitHub&quot; style=&quot;width:40px; height:40px;&quot; /&gt;
-&lt;/a&gt;
-
-    &lt;h3&gt;See the Code&lt;/h3&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;h3&gt;Other Projects&lt;/h3&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/this-website/&quot;&gt;Web development &amp;middot; &lt;strong&gt;This Website&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/rep-sampling-for-nea/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Representative Samping for the Nuclear Ensemble Approach&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/cloud-paradigm-atlas-data-processing/&quot;&gt;Cloud paradigms &amp;middot; &lt;strong&gt;Improving scalability using cloud paradigms&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/biscuit-dunking-analysis/&quot;&gt;Data Science &amp;middot; &lt;strong&gt;Biscuit Dunking Data Analysis&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/atmospec-data-visualization-module/&quot;&gt;Data Visualization &amp;middot; &lt;strong&gt;Atmospec Visualization Module&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/portfolio/accelerating-python-code/&quot;&gt;Increasing Efficiency &amp;middot; &lt;strong&gt;Accelerating Python code&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;http://localhost:4000/blog/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="projects" />
-			
-			
-				<category term="Python" />
-			
-				<category term="Bash" />
-			
-				<category term="Quantum Chemistry" />
-			
-
-			<published>2024-08-04T00:00:00+00:00</published>
 		</entry>
 	
 </feed>

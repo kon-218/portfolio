@@ -12,8 +12,8 @@ tags:
 categories:
     - projects
 image:
-    thumb: gallery-example-2-thumb.jpg
-    title: gallery-example-2.jpg
+    thumb: cpython.png
+    title: cpython.png
     caption: Unsplash.com
     caption_url: http://unsplash.com
 permalink: /portfolio/accelerating-python-code/

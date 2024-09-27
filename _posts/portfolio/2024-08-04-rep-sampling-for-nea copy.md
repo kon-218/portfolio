@@ -12,7 +12,7 @@ tags:
 categories:
     - projects
 image:
-    thumb: gallery-example-2-thumb.jpg
+    thumb: b.png
     title: b.png
     caption: ACS Earth & Space Chemistry
     caption_url: https://pubs.acs.org/toc/aesccq/6/1

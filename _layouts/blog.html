@@ -3,6 +3,13 @@ layout: default
 format: blog-index
 # Don't index these pages dear Google.
 noindex: true
+pagination:
+  enabled: true
+  collection: posts
+  permalink: '/blog/page/:num/'
+  per_page: 5
+  sort_field: 'date'
+  sort_reverse: true
 ---
 <div class="row">
 	<div class="medium-8 columns t30">
