@@ -1,6 +1,7 @@
 ---
 layout: page
 sidebar: right
+sidebar_content: "_sidebar_nea.html"
 subheadline: Data Science
 title:  "Representative Samping for the Nuclear Ensemble Approach"
 teaser: "Implemented the Representative Sampling Method using Simulated Annealing to increase the efficiency of high-cost Quantum Chemistry photoabsorption cross-section calculations"
@@ -26,7 +27,7 @@ Masters thesis project at the University of Bristol <a href="https://in-silico-p
 
 <h3>Project Objectives</h3>
 
-The primary aim of this thesis was to implement optimal sampling of a representative nuclear ensemble using simulated annealing within the Atmospec workchain. This approach seeks to provide a fast and efficient method for exploring the photoabsorption cross-sections of gas-phase Volative Organic Compounds.
+The primary aim of this thesis was to implement optimal sampling of a representative nuclear ensemble using simulated annealing within the Atmospec workchain. This approach seeks to provide a fast and efficient method for exploring the photoabsorption cross-sections of gas-phase Volatile Organic Compounds.
 
 <h3>Background</h3>
 

@@ -25,7 +25,7 @@ author: Konstantin Nomerotski
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://kon-218.github.io'
+url: 'https://k-nom.com'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -117,7 +117,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Konstantin N     # Default author for pages
+      author: kon    # Default author for pages
   -
     scope:
       path: ''
@@ -126,7 +126,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Konstantin N    # Default author for posts
+      author: kon    # Default author for posts
 
 
 

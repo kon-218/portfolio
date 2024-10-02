@@ -526,6 +526,37 @@ body.video cite { color: #fff; }
     }
   }
 
+//Sidebar
+
+.content-sidebar-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .main-content {
+    width: 70%;  /* Adjust based on your preference */
+    padding-right: 20px;  /* Adds some space between content and sidebar */
+  }
+  
+  .sidebar {
+    width: 25%;  /* Adjust the width of the sidebar */
+  }
+  
+  .teaser {
+    font-style: italic;
+    color: #555;
+  }
+  
+  @media only screen and (max-width: 768px) {
+    .content-sidebar-container {
+      flex-direction: column;  /* Stacks content and sidebar on smaller screens */
+    }
+  
+    .main-content, .sidebar {
+      width: 100%;
+    }
+  }
+  
   
 // CV
 

@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>KN - Portfolio</title>
-	<updated>2024-09-27T18:37:17+00:00</updated>
+	<updated>2024-10-02T17:26:22+00:00</updated>
 
 	<subtitle>» A portfolio / blog «</subtitle>
 
@@ -373,7 +373,7 @@ In conclusion, the integration of machine learning into solubility prediction re
     &lt;div class=&quot;panel radius&quot;&gt;
       &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#lato--a-sans-serif-typeface-family&quot; id=&quot;markdown-toc-lato--a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#coming-soon&quot; id=&quot;markdown-toc-coming-soon&quot;&gt;Coming Soon!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;/div&gt;
@@ -381,25 +381,7 @@ In conclusion, the integration of machine learning into solubility prediction re
 
 &lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
 
-    &lt;h2 id=&quot;lato--a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/h2&gt;
-
-    &lt;p&gt;[&lt;dfn&gt;Lato&lt;/dfn&gt;][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google.&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;&lt;span class=&quot;teaser&quot;&gt;I do not think of type as something that should be readable. It should be beautiful.&lt;/span&gt;&lt;cite&gt;[Ed Benguiat][3]&lt;/cite&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;In the last ten or so years, during which Łukasz has been designing type, most of his projects were rooted in a particular design task that he needed to solve. With Lato, it was no different. Originally, the family was conceived as a set of corporate fonts for a large client — who in the end decided to go in different stylistic direction, so the family became available for a public release.&lt;/p&gt;
-
-    &lt;p&gt;When working on Lato, Łukasz tried to carefully balance some potentially conflicting priorities. He wanted to create a typeface that would seem quite “transparent” when used in body text but would display some original traits when used in larger sizes. He used classical proportions (particularly visible in the uppercase) to give the letterforms familiar harmony and elegance. At the same time, he created a sleek sans serif look, which makes evident the fact that Lato was designed in 2010 — even though it does not follow any current trend.&lt;/p&gt;
-
-    &lt;p&gt;The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz. Learn more at [www.latofonts.com][6]&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;../../images/ilovepython2.jpg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
-
-    &lt;div class=&quot;header-test&quot;&gt;
-  &lt;img src=&quot;ilovepython2.jpg&quot; alt=&quot;Header Test&quot; /&gt;
-&lt;/div&gt;
+    &lt;h2 id=&quot;coming-soon&quot;&gt;Coming Soon!&lt;/h2&gt;
   &lt;/div&gt;&lt;/div&gt;
 </content>
 
@@ -616,7 +598,7 @@ In conclusion, the integration of machine learning into solubility prediction re
     &lt;div class=&quot;panel radius&quot;&gt;
       &lt;p id=&quot;toc&quot;&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;&lt;/p&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#lato--a-sans-serif-typeface-family&quot; id=&quot;markdown-toc-lato--a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#coming-soon&quot; id=&quot;markdown-toc-coming-soon&quot;&gt;Coming Soon!&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
     &lt;/div&gt;
@@ -624,25 +606,7 @@ In conclusion, the integration of machine learning into solubility prediction re
 
 &lt;div class=&quot;medium-8 medium-pull-4 columns&quot;&gt;
 
-    &lt;h2 id=&quot;lato--a-sans-serif-typeface-family&quot;&gt;Lato – A Sans Serif Typeface Family&lt;/h2&gt;
-
-    &lt;p&gt;[&lt;dfn&gt;Lato&lt;/dfn&gt;][4] is a sans serif typeface family started in the summer of 2010 by Warsaw-based designer Łukasz Dziedzic. »Lato« means »Summer« in Polish. In December 2010 the Lato family was published under the Open Font License by his foundry tyPoland, with support from Google.&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;&lt;span class=&quot;teaser&quot;&gt;I do not think of type as something that should be readable. It should be beautiful.&lt;/span&gt;&lt;cite&gt;[Ed Benguiat][3]&lt;/cite&gt;&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;In the last ten or so years, during which Łukasz has been designing type, most of his projects were rooted in a particular design task that he needed to solve. With Lato, it was no different. Originally, the family was conceived as a set of corporate fonts for a large client — who in the end decided to go in different stylistic direction, so the family became available for a public release.&lt;/p&gt;
-
-    &lt;p&gt;When working on Lato, Łukasz tried to carefully balance some potentially conflicting priorities. He wanted to create a typeface that would seem quite “transparent” when used in body text but would display some original traits when used in larger sizes. He used classical proportions (particularly visible in the uppercase) to give the letterforms familiar harmony and elegance. At the same time, he created a sleek sans serif look, which makes evident the fact that Lato was designed in 2010 — even though it does not follow any current trend.&lt;/p&gt;
-
-    &lt;p&gt;The semi-rounded details of the letters give Lato a feeling of warmth, while the strong structure provides stability and seriousness. “Male and female, serious but friendly. With the feeling of the Summer,” says Łukasz. Learn more at [www.latofonts.com][6]&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;../../images/ilovepython2.jpg&quot; alt=&quot;Test Image&quot; /&gt;&lt;/p&gt;
-
-    &lt;div class=&quot;header-test&quot;&gt;
-  &lt;img src=&quot;ilovepython2.jpg&quot; alt=&quot;Header Test&quot; /&gt;
-&lt;/div&gt;
+    &lt;h2 id=&quot;coming-soon&quot;&gt;Coming Soon!&lt;/h2&gt;
   &lt;/div&gt;&lt;/div&gt;
 </content>
 

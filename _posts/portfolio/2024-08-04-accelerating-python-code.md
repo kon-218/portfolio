@@ -14,8 +14,8 @@ categories:
 image:
     thumb: cpython.png
     title: cpython.png
-    caption: Unsplash.com
-    caption_url: http://unsplash.com
+    caption: 
+    caption_url: 
 permalink: /portfolio/accelerating-python-code/
 header: no
 ---

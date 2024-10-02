@@ -1,6 +1,7 @@
 ---
 layout: page
 sidebar: right
+sidebar_content: _sidebar_biscuit.html
 subheadline: Data Science
 title:  "Biscuit Dunking Data Analysis"
 teaser: "A comprehensive analysis of biscuit dunking data"

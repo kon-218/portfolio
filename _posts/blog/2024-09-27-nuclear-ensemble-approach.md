@@ -15,9 +15,9 @@ tags:
 categories:
     - blog
 image:
-    thumb: gallery-example-3.jpg
-    title: gallery-example-3.jpg
-    caption: AtmoSpec logo
+    thumb: cross-section.png
+    title: cross-section.png
+    caption: absorption cross-section calculated with the Nuclear Ensemble Approach, where each bar represents a different conformers contribution
 permalink: /blog/nuclear-ensemble-approach
 header: no
 ---
