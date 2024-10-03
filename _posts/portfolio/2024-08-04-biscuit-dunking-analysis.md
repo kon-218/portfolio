@@ -47,6 +47,8 @@ Biscuit classification was attempted with and without the pore radius, finding g
 </ul>
 <!--more-->
 
+<br>
+
 <div class="widget-grid">
   <div class="widget">
     <img src="../../images/report_biscuit.png" alt="Read the Report" class="widget-image" />

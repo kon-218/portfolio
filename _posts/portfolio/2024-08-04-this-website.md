@@ -1,6 +1,7 @@
 ---
 layout: page
 sidebar: right
+sidebar_content: "_sidebar_website.html"
 subheadline: Web development
 title:  "This Website"
 permalink: /portfolio/this-website/

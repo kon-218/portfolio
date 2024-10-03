@@ -129,7 +129,7 @@ Feel free to explore the various projects by clicking the image above for the co
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns t30 project">
-        <a href="/portfolio/accellerating-python-code">
+        <a href="/portfolio/accelerating-python-code">
             <img src="{{ site.urlimg }}cpython.png" alt="">
         </a>
         <div class="project-content">

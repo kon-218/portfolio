@@ -3,10 +3,10 @@
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
-	<title>KN - Portfolio</title>
-	<updated>2024-10-02T17:26:22+00:00</updated>
+	<title>Konstantin Nomerotski - Portfolio</title>
+	<updated>2024-10-03T15:00:55+00:00</updated>
 
-	<subtitle>» A portfolio / blog «</subtitle>
+	<subtitle>» Showcasing my portfolio in Chemistry, Computing, and Data Science «</subtitle>
 
 	
 		
@@ -38,6 +38,10 @@
 						<name>Konstantin N</name>
 					
 					
+						<email>kon50@hotmail.co.uk</email>
+					
+					
+						<uri>http://k-nom.com</uri>
 					
 				</author>
 			
@@ -78,6 +82,10 @@
 						<name>Konstantin N</name>
 					
 					
+						<email>kon50@hotmail.co.uk</email>
+					
+					
+						<uri>http://k-nom.com</uri>
 					
 				</author>
 			
@@ -155,6 +163,10 @@ Understanding how VOCs interact with sunlight is essential for developing accura
 						<name>Konstantin N</name>
 					
 					
+						<email>kon50@hotmail.co.uk</email>
+					
+					
+						<uri>http://k-nom.com</uri>
 					
 				</author>
 			
@@ -210,6 +222,10 @@ In conclusion, the integration of machine learning into solubility prediction re
 						<name>Konstantin N</name>
 					
 					
+						<email>kon50@hotmail.co.uk</email>
+					
+					
+						<uri>http://k-nom.com</uri>
 					
 				</author>
 			
@@ -249,6 +265,10 @@ In conclusion, the integration of machine learning into solubility prediction re
 						<name>Konstantin N</name>
 					
 					
+						<email>kon50@hotmail.co.uk</email>
+					
+					
+						<uri>http://k-nom.com</uri>
 					
 				</author>
 			
@@ -288,6 +308,10 @@ In conclusion, the integration of machine learning into solubility prediction re
 						<name>Konstantin N</name>
 					
 					
+						<email>kon50@hotmail.co.uk</email>
+					
+					
+						<uri>http://k-nom.com</uri>
 					
 				</author>
 			
@@ -325,6 +349,10 @@ In conclusion, the integration of machine learning into solubility prediction re
 						<name>Konstantin N</name>
 					
 					
+						<email>kon50@hotmail.co.uk</email>
+					
+					
+						<uri>http://k-nom.com</uri>
 					
 				</author>
 			
@@ -362,6 +390,10 @@ In conclusion, the integration of machine learning into solubility prediction re
 						<name>Konstantin N</name>
 					
 					
+						<email>kon50@hotmail.co.uk</email>
+					
+					
+						<uri>http://k-nom.com</uri>
 					
 				</author>
 			
@@ -408,6 +440,10 @@ In conclusion, the integration of machine learning into solubility prediction re
 						<name>Konstantin N</name>
 					
 					
+						<email>kon50@hotmail.co.uk</email>
+					
+					
+						<uri>http://k-nom.com</uri>
 					
 				</author>
 			
@@ -587,6 +623,10 @@ In conclusion, the integration of machine learning into solubility prediction re
 						<name>Konstantin N</name>
 					
 					
+						<email>kon50@hotmail.co.uk</email>
+					
+					
+						<uri>http://k-nom.com</uri>
 					
 				</author>
 			

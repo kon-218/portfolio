@@ -34,7 +34,7 @@
 </noscript>
 
 <!-- Search Engine Optimization -->
-<meta name="description" content="» A portfolio / blog «">
+<meta name="description" content="» Showcasing my portfolio in Chemistry, Computing, and Data Science «">
 <meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 <meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 
@@ -44,11 +44,11 @@
 
 <!-- Facebook Open Graph -->
 <meta property="og:title" content="RSS Feed (Styled)">
-<meta property="og:description" content="» A portfolio / blog «">
+<meta property="og:description" content="» Showcasing my portfolio in Chemistry, Computing, and Data Science «">
 <meta property="og:url" content="http://localhost:4000/assets/xslt/rss.xslt">
 <meta property="og:locale" content="en_EN">
 <meta property="og:type" content="website">
-<meta property="og:site_name" content="KN - Portfolio">
+<meta property="og:site_name" content="Konstantin Nomerotski - Portfolio">
 
 <meta property="article:author" content="https://www.facebook.com/phlow.media">
 
@@ -58,7 +58,7 @@
 <meta name="twitter:site" content="phlow">
 <meta name="twitter:creator" content="phlow">
 <meta name="twitter:title" content="RSS Feed (Styled)">
-<meta name="twitter:description" content="» A portfolio / blog «">
+<meta name="twitter:description" content="» Showcasing my portfolio in Chemistry, Computing, and Data Science «">
 
 
 
@@ -107,7 +107,7 @@
   <nav class="top-bar" role="navigation" data-topbar data-options="scrolltop: false">
     <ul class="title-area">
       <li class="name">
-      <h1 class="hide-for-large-up"><a href="http://localhost:4000" class="icon-tree"> KN - Portfolio</a></h1>
+      <h1 class="hide-for-large-up"><a href="http://localhost:4000" class="icon-tree"> Konstantin Nomerotski - Portfolio</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar toggle-topbar-click menu-icon"><a><span>Nav</span></a></li>
@@ -373,8 +373,8 @@
 <div id="masthead-no-image-header">
     <div class="row">
         <div class="small-12 columns">
-            <a id="logo" href="http://localhost:4000/" title="KN - Portfolio – A portfolio">
-                <img src="http://localhost:4000/assets/img/logo.png" alt="KN - Portfolio – A portfolio">
+            <a id="logo" href="http://localhost:4000/" title="Konstantin Nomerotski - Portfolio – A portfolio website">
+                <img src="http://localhost:4000/assets/img/logo.png" alt="Konstantin Nomerotski - Portfolio – A portfolio website">
             </a>
         </div><!-- /.small-12.columns -->
     </div><!-- /.row -->
@@ -447,7 +447,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              » A portfolio / blog «
+              » Showcasing my portfolio in Chemistry, Computing, and Data Science «
               <a href="http://localhost:4000/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->

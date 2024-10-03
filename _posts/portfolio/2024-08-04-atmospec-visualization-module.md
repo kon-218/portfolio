@@ -1,6 +1,7 @@
 ---
 layout: page
 sidebar: right
+sidebar_content: "_sidebar_atmospec.html"
 subheadline: Data Visualization
 title:  "Atmospec Visualization Module"
 teaser: "An interactive data visualization module"

@@ -3,8 +3,8 @@
 <?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>KN - Portfolio</title>
-		<description>» A portfolio / blog «</description>
+		<title>Konstantin Nomerotski - Portfolio</title>
+		<description>» Showcasing my portfolio in Chemistry, Computing, and Data Science «</description>
 		<link>http://localhost:4000/</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		

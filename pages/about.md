@@ -21,38 +21,14 @@ Growing up in Oxford, I adopted a strong academic foundation that shaped my inte
 
 My interdisciplinary programme at the University of Bristol was the first to combine both Chemistry and Computing at the University, as a result I felt at the forefront of scientific advancement, learning about the countless applications of Computing in Chemistry. The course allowed us to explore chemical models and theories, subsequently applying these models in data-driven analysis. Moreover, it helped me develop best coding practices for both Software Engineering and Data Science projects. The program not only honed my technical skills but also emphasized the importance of collaboration and communication in scientiic research. Engaging in group projects, as well as my independent Masters project in the final year, enriched my understanding of how diverse perspectives can drive innovation. This unique experiene gained through laboratory work, in combination with computational simulations, reinforced my ability to tackle complex problems and to bridge the gap between theoretical knowledge and practical application.
 
-## New York
+## USA
 
 <img src="../images/newyork.jpg" alt="Test Image">
 
+I am excited to start my career journey in the United States, where I hope to work in the Data Science / Software Engineering industry. It is my dream to contribute to technology that will revolutionize science in the future, whether this be through software development, process optimization or computational simulation. 
+
+With a degree in Chemistry with Computing from the University of Bristol, I have developed a strong foundation in both scientific principles and computational techniques. This unique combination enables me to approach problems from multiple angles, making me well-suited for roles in cheminformatics and computational chemistry.
+I am particularly passionate about applying data science to enhance drug discovery processes and optimize chemical research workflows. I believe that leveraging advanced algorithms and data-driven insights can lead to significant advancements in the pharmaceutical and biotech industries.
 ## I got inspired by...
 
-[Michael Rose][1] and his fabulous [themes for jekyll][2]. Authors of [A List Apart][4] and [Smashing Magazine][5] since 2002. [GitHub][6] and how they built such a habitat for cooperation worldwide. [Automattic][3] and how they built a fantastic community around WordPress. And many, many more...
 
-Please make *Feeling Responsive* yours and if you like it, please link back to my homebase <a href="http://phlow.de/">Phlow</a>. That would be awesome.
-
-#### Since then, fork it!
-
-Yours sincerelly, [Moritz »mo.« Sauer][7]
-
-
- [1]: http://mademistakes.com/about/
- [2]: http://mademistakes.com/work/jekyll-themes/
- [3]: http://automattic.com/
- [4]: http://alistapart.com/
- [5]: http://www.smashingmagazine.com/
- [6]: https://github.com/
- [7]: http://sauer.io
- [8]: {{ site.url }}/design/gallery/
- [9]: {{ site.url }}/design/video/
- [10]: {{ site.url }}/design/grid/
- [11]: {{ site.url }}/design/typography/
- [12]: {{ site.url }}/design/mediaelement_js/
- [13]: #
- [14]: #
- [15]: #
- [16]: #
- [17]: #
- [18]: #
- [19]: #
- [20]: #

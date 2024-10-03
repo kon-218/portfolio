@@ -56,6 +56,7 @@ Representative sampling method within the Nuclear Ensemble Approach was successf
 </ul>
 <!--more-->
 
+<br>
 <div class="widget-grid">
   <div class="widget">
     <img src="../../images/report_repsample.png" alt="Read my thesis" class="widget-image" />

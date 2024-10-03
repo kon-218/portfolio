@@ -1,6 +1,7 @@
 ---
 layout: page
 sidebar: right
+sidebar_content: "_sidebar_cloud.html"
 subheadline: Cloud paradigms
 title:  "Improving scalability using cloud paradigms"
 teaser: "Scaling an ATLAS data processing script using service based model. Functionality demonstrated locally using Docker swarm"
@@ -40,6 +41,8 @@ The implementation consists of a multiservice application for the analysis of Hi
 <li>Increased scalability using a service based architechture that can be adapted based on demand. Demonstrated scalability locally using docker swarm.</li>
 <li>Streamlined communication between services using RabbitMQ, eliminating race conditions and reducing storage requirements.</li>
 </ul>
+
+<br>
 
 <div class="widget-grid">
   <div class="widget">

@@ -37,7 +37,7 @@ widget1:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
+  url: https://paypal.me/konnnn?country.x=GB&locale.x=en_GB
   text: Buy me a coffee ›
   style: alert
 permalink: /index.html
