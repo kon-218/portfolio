@@ -29,7 +29,9 @@ const ContactPage = () => (
       <div className="container">
         <div style={{ display: 'grid', gridTemplateColumns: 'minmax(0, 1fr) minmax(300px, 0.7fr)', gap: 'var(--sp-7)', alignItems: 'start' }}>
           <div style={{ background: 'var(--surface)', border: '1px solid var(--border)', borderRadius: 'var(--radius-lg)', padding: 'var(--sp-6)' }}>
-            <form action="/contact.php" method="get">
+            <form action="https://api.web3forms.com/submit" method="POST">
+              <input type="hidden" name="access_key" value="b6b73342-c24d-4f7e-a609-353e9ca1d88c" />
+              <input type="hidden" name="subject" value="New Ligand-X inquiry" />
               <input type="hidden" name="product" value="Ligand-X" />
               <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 14 }}>
                 <label style={{ display: 'flex', flexDirection: 'column', gap: 6, fontSize: 13, color: 'var(--ink-2)' }}>
@@ -75,7 +77,7 @@ const ContactPage = () => (
             <div className="mono" style={{ color: 'var(--accent-strong)', fontSize: 11, textTransform: 'uppercase', letterSpacing: '0.08em', marginBottom: 10 }}>Useful context</div>
             <ul style={{ margin: 0, paddingLeft: 18, color: 'var(--ink-2)', fontSize: 14, lineHeight: 1.6 }}>
               <li>License type: Academic or Commercial Pro</li>
-              <li>Modules needed: QC, ADMET, Boltz-2, ABFE/RBFE, REINVENT, kinetics</li>
+              <li>Modules needed: QC, ADMET, Boltz-2, ABFE/RBFE, REINVENT</li>
               <li>Deployment target: desktop, workstation, server, or private cluster</li>
               <li>GPU availability and expected molecule/project scale</li>
             </ul>
