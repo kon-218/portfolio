@@ -184,7 +184,7 @@
               
 
               <li><a 
-                  href="http://localhost:4000/ligand-x/" >Ligand-X</a></li>
+                  href="https://www.ligand-x.com/" >Ligand-X</a></li>
               
 
               

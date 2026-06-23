@@ -48,7 +48,7 @@
 			<summary>Ligand-X is a web application for structural, physical, and chemical analysis of ligand-protein complexes, lowering the barrier to entry for advanced bioinformatics and cheminformatics simulations.</summary>
 			<content type="html" xml:base="http://localhost:4000/portfolio/ligand-x/">&lt;div class=&quot;lx-banner&quot;&gt;
   &lt;strong&gt;Interactive product page:&lt;/strong&gt;
-  &lt;a href=&quot;/ligand-x/&quot;&gt;Open the Ligand-X micro-site →&lt;/a&gt;
+  &lt;a href=&quot;https://www.ligand-x.com/&quot;&gt;Open the Ligand-X micro-site →&lt;/a&gt;
   &lt;span&gt;Full feature tour, docs, and download.&lt;/span&gt;
 &lt;/div&gt;
 &lt;style&gt;
